@@ -2,3 +2,6 @@
 /datasets
 /models
 /voice/data
+/face/models
+/face/embeddings
+/face/input_images
