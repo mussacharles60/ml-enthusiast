@@ -5,3 +5,4 @@
 /face/models
 /face/embeddings
 /face/input_images
+/face/__pycache__
