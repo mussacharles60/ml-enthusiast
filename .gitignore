@@ -7,3 +7,5 @@
 /face/input_images
 /face/gallery_images
 /face/__pycache__
+/nlp/models
+/object_detection/models
