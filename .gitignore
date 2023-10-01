@@ -11,3 +11,4 @@
 /nlp/models
 /object_detection/content/mAP/input
 /object_detection/models
+.env
