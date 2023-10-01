@@ -1,0 +1,6008 @@
+[
+  {
+    "sw": "Swahili",
+    "en": [
+      "in English"
+    ]
+  },
+  {
+    "sw": "kama",
+    "en": [
+      "as"
+    ]
+  },
+  {
+    "sw": "mimi",
+    "en": [
+      "I"
+    ]
+  },
+  {
+    "sw": "yake",
+    "en": [
+      "his"
+    ]
+  },
+  {
+    "sw": "kwamba",
+    "en": [
+      "that"
+    ]
+  },
+  {
+    "sw": "yeye",
+    "en": [
+      "he"
+    ]
+  },
+  {
+    "sw": "mara",
+    "en": [
+      "was"
+    ]
+  },
+  {
+    "sw": "kwa",
+    "en": [
+      "for"
+    ]
+  },
+  {
+    "sw": "juu ya",
+    "en": [
+      "on"
+    ]
+  },
+  {
+    "sw": "wako",
+    "en": [
+      "are"
+    ]
+  },
+  {
+    "sw": "kwa",
+    "en": [
+      "with"
+    ]
+  },
+  {
+    "sw": "wao",
+    "en": [
+      "they"
+    ]
+  },
+  {
+    "sw": "kuwa",
+    "en": [
+      "be"
+    ]
+  },
+  {
+    "sw": "katika",
+    "en": [
+      "at"
+    ]
+  },
+  {
+    "sw": "moja",
+    "en": [
+      "one"
+    ]
+  },
+  {
+    "sw": "na",
+    "en": [
+      "have"
+    ]
+  },
+  {
+    "sw": "hii",
+    "en": [
+      "this"
+    ]
+  },
+  {
+    "sw": "kutoka",
+    "en": [
+      "from"
+    ]
+  },
+  {
+    "sw": "na",
+    "en": [
+      "by"
+    ]
+  },
+  {
+    "sw": "moto",
+    "en": [
+      "hot"
+    ]
+  },
+  {
+    "sw": "neno",
+    "en": [
+      "word"
+    ]
+  },
+  {
+    "sw": "lakini",
+    "en": [
+      "but"
+    ]
+  },
+  {
+    "sw": "nini",
+    "en": [
+      "what"
+    ]
+  },
+  {
+    "sw": "baadhi",
+    "en": [
+      "some"
+    ]
+  },
+  {
+    "sw": "ni",
+    "en": [
+      "is"
+    ]
+  },
+  {
+    "sw": "yake",
+    "en": [
+      "it"
+    ]
+  },
+  {
+    "sw": "ninyi",
+    "en": [
+      "you"
+    ]
+  },
+  {
+    "sw": "au",
+    "en": [
+      "or"
+    ]
+  },
+  {
+    "sw": "alikuwa",
+    "en": [
+      "had"
+    ]
+  },
+  {
+    "sw": "akaonekana",
+    "en": [
+      "the"
+    ]
+  },
+  {
+    "sw": "ya",
+    "en": [
+      "of"
+    ]
+  },
+  {
+    "sw": "kwa",
+    "en": [
+      "to"
+    ]
+  },
+  {
+    "sw": "na",
+    "en": [
+      "and"
+    ]
+  },
+  {
+    "sw": "a",
+    "en": [
+      "a"
+    ]
+  },
+  {
+    "sw": "katika",
+    "en": [
+      "in"
+    ]
+  },
+  {
+    "sw": "sisi",
+    "en": [
+      "we"
+    ]
+  },
+  {
+    "sw": "unaweza",
+    "en": [
+      "can"
+    ]
+  },
+  {
+    "sw": "nje",
+    "en": [
+      "out"
+    ]
+  },
+  {
+    "sw": "nyingine",
+    "en": [
+      "other"
+    ]
+  },
+  {
+    "sw": "walikuwa",
+    "en": [
+      "were"
+    ]
+  },
+  {
+    "sw": "ambayo",
+    "en": [
+      "which"
+    ]
+  },
+  {
+    "sw": "kufanya",
+    "en": [
+      "do"
+    ]
+  },
+  {
+    "sw": "yao",
+    "en": [
+      "their"
+    ]
+  },
+  {
+    "sw": "wakati",
+    "en": [
+      "time"
+    ]
+  },
+  {
+    "sw": "kama",
+    "en": [
+      "if"
+    ]
+  },
+  {
+    "sw": "mapenzi",
+    "en": [
+      "will"
+    ]
+  },
+  {
+    "sw": "jinsi",
+    "en": [
+      "how"
+    ]
+  },
+  {
+    "sw": "alisema",
+    "en": [
+      "said"
+    ]
+  },
+  {
+    "sw": "an",
+    "en": [
+      "an"
+    ]
+  },
+  {
+    "sw": "kila",
+    "en": [
+      "each"
+    ]
+  },
+  {
+    "sw": "kuwaambia",
+    "en": [
+      "tell"
+    ]
+  },
+  {
+    "sw": "gani",
+    "en": [
+      "does"
+    ]
+  },
+  {
+    "sw": "kuweka",
+    "en": [
+      "set"
+    ]
+  },
+  {
+    "sw": "tatu",
+    "en": [
+      "three"
+    ]
+  },
+  {
+    "sw": "wanataka",
+    "en": [
+      "want"
+    ]
+  },
+  {
+    "sw": "hewa",
+    "en": [
+      "air"
+    ]
+  },
+  {
+    "sw": "vizuri",
+    "en": [
+      "well"
+    ]
+  },
+  {
+    "sw": "pia",
+    "en": [
+      "also"
+    ]
+  },
+  {
+    "sw": "kucheza",
+    "en": [
+      "play"
+    ]
+  },
+  {
+    "sw": "ndogo",
+    "en": [
+      "small"
+    ]
+  },
+  {
+    "sw": "mwisho",
+    "en": [
+      "end"
+    ]
+  },
+  {
+    "sw": "kuweka",
+    "en": [
+      "put"
+    ]
+  },
+  {
+    "sw": "nyumbani",
+    "en": [
+      "home"
+    ]
+  },
+  {
+    "sw": "kusoma",
+    "en": [
+      "read"
+    ]
+  },
+  {
+    "sw": "mkono",
+    "en": [
+      "hand"
+    ]
+  },
+  {
+    "sw": "bandari",
+    "en": [
+      "port"
+    ]
+  },
+  {
+    "sw": "kubwa",
+    "en": [
+      "large"
+    ]
+  },
+  {
+    "sw": "Spell",
+    "en": [
+      "spell"
+    ]
+  },
+  {
+    "sw": "kuongeza",
+    "en": [
+      "add"
+    ]
+  },
+  {
+    "sw": "hata",
+    "en": [
+      "even"
+    ]
+  },
+  {
+    "sw": "ardhi",
+    "en": [
+      "land"
+    ]
+  },
+  {
+    "sw": "hapa",
+    "en": [
+      "here"
+    ]
+  },
+  {
+    "sw": "lazima",
+    "en": [
+      "must"
+    ]
+  },
+  {
+    "sw": "kubwa",
+    "en": [
+      "big"
+    ]
+  },
+  {
+    "sw": "high",
+    "en": [
+      "high"
+    ]
+  },
+  {
+    "sw": "kama",
+    "en": [
+      "such"
+    ]
+  },
+  {
+    "sw": "kufuata",
+    "en": [
+      "follow"
+    ]
+  },
+  {
+    "sw": "tendo",
+    "en": [
+      "act"
+    ]
+  },
+  {
+    "sw": "kwa nini",
+    "en": [
+      "why"
+    ]
+  },
+  {
+    "sw": "kuuliza",
+    "en": [
+      "ask"
+    ]
+  },
+  {
+    "sw": "wanaume",
+    "en": [
+      "men"
+    ]
+  },
+  {
+    "sw": "mabadiliko ya",
+    "en": [
+      "change"
+    ]
+  },
+  {
+    "sw": "akaenda",
+    "en": [
+      "went"
+    ]
+  },
+  {
+    "sw": "mwanga",
+    "en": [
+      "light"
+    ]
+  },
+  {
+    "sw": "aina",
+    "en": [
+      "kind"
+    ]
+  },
+  {
+    "sw": "mbali",
+    "en": [
+      "off"
+    ]
+  },
+  {
+    "sw": "haja",
+    "en": [
+      "need"
+    ]
+  },
+  {
+    "sw": "nyumba",
+    "en": [
+      "house"
+    ]
+  },
+  {
+    "sw": "picha",
+    "en": [
+      "picture"
+    ]
+  },
+  {
+    "sw": "kujaribu",
+    "en": [
+      "try"
+    ]
+  },
+  {
+    "sw": "sisi",
+    "en": [
+      "us"
+    ]
+  },
+  {
+    "sw": "tena",
+    "en": [
+      "again"
+    ]
+  },
+  {
+    "sw": "mnyama",
+    "en": [
+      "animal"
+    ]
+  },
+  {
+    "sw": "uhakika",
+    "en": [
+      "point"
+    ]
+  },
+  {
+    "sw": "mama",
+    "en": [
+      "mother"
+    ]
+  },
+  {
+    "sw": "dunia",
+    "en": [
+      "world"
+    ]
+  },
+  {
+    "sw": "karibu",
+    "en": [
+      "near"
+    ]
+  },
+  {
+    "sw": "kujenga",
+    "en": [
+      "build"
+    ]
+  },
+  {
+    "sw": "binafsi",
+    "en": [
+      "self"
+    ]
+  },
+  {
+    "sw": "dunia",
+    "en": [
+      "earth"
+    ]
+  },
+  {
+    "sw": "baba",
+    "en": [
+      "father"
+    ]
+  },
+  {
+    "sw": "yoyote",
+    "en": [
+      "any"
+    ]
+  },
+  {
+    "sw": "mpya",
+    "en": [
+      "new"
+    ]
+  },
+  {
+    "sw": "kazi",
+    "en": [
+      "work"
+    ]
+  },
+  {
+    "sw": "sehemu",
+    "en": [
+      "part"
+    ]
+  },
+  {
+    "sw": "kuchukua",
+    "en": [
+      "take"
+    ]
+  },
+  {
+    "sw": "kupata",
+    "en": [
+      "get"
+    ]
+  },
+  {
+    "sw": "mahali",
+    "en": [
+      "place"
+    ]
+  },
+  {
+    "sw": "alifanya",
+    "en": [
+      "made"
+    ]
+  },
+  {
+    "sw": "kuishi",
+    "en": [
+      "live"
+    ]
+  },
+  {
+    "sw": "ambapo",
+    "en": [
+      "where"
+    ]
+  },
+  {
+    "sw": "baada ya",
+    "en": [
+      "after"
+    ]
+  },
+  {
+    "sw": "nyuma",
+    "en": [
+      "back"
+    ]
+  },
+  {
+    "sw": "kidogo",
+    "en": [
+      "little"
+    ]
+  },
+  {
+    "sw": "tu",
+    "en": [
+      "only"
+    ]
+  },
+  {
+    "sw": "pande zote",
+    "en": [
+      "round"
+    ]
+  },
+  {
+    "sw": "mtu",
+    "en": [
+      "man"
+    ]
+  },
+  {
+    "sw": "mwaka",
+    "en": [
+      "year"
+    ]
+  },
+  {
+    "sw": "alikuja",
+    "en": [
+      "came"
+    ]
+  },
+  {
+    "sw": "Onyesha",
+    "en": [
+      "show"
+    ]
+  },
+  {
+    "sw": "kila",
+    "en": [
+      "every"
+    ]
+  },
+  {
+    "sw": "nzuri",
+    "en": [
+      "good"
+    ]
+  },
+  {
+    "sw": "mimi",
+    "en": [
+      "me"
+    ]
+  },
+  {
+    "sw": "kutoa",
+    "en": [
+      "give"
+    ]
+  },
+  {
+    "sw": "wetu",
+    "en": [
+      "our"
+    ]
+  },
+  {
+    "sw": "chini ya",
+    "en": [
+      "under"
+    ]
+  },
+  {
+    "sw": "jina",
+    "en": [
+      "name"
+    ]
+  },
+  {
+    "sw": "sana",
+    "en": [
+      "very"
+    ]
+  },
+  {
+    "sw": "kupitia",
+    "en": [
+      "through"
+    ]
+  },
+  {
+    "sw": "tu",
+    "en": [
+      "just"
+    ]
+  },
+  {
+    "sw": "aina",
+    "en": [
+      "form"
+    ]
+  },
+  {
+    "sw": "hukumu",
+    "en": [
+      "sentence"
+    ]
+  },
+  {
+    "sw": "kubwa",
+    "en": [
+      "great"
+    ]
+  },
+  {
+    "sw": "kufikiri",
+    "en": [
+      "think"
+    ]
+  },
+  {
+    "sw": "kusema",
+    "en": [
+      "say"
+    ]
+  },
+  {
+    "sw": "msaada",
+    "en": [
+      "help"
+    ]
+  },
+  {
+    "sw": "chini",
+    "en": [
+      "low"
+    ]
+  },
+  {
+    "sw": "line",
+    "en": [
+      "line"
+    ]
+  },
+  {
+    "sw": "tofauti",
+    "en": [
+      "differ"
+    ]
+  },
+  {
+    "sw": "upande",
+    "en": [
+      "turn"
+    ]
+  },
+  {
+    "sw": "sababu",
+    "en": [
+      "cause"
+    ]
+  },
+  {
+    "sw": "kiasi",
+    "en": [
+      "much"
+    ]
+  },
+  {
+    "sw": "maana",
+    "en": [
+      "mean"
+    ]
+  },
+  {
+    "sw": "kabla ya",
+    "en": [
+      "before"
+    ]
+  },
+  {
+    "sw": "hoja",
+    "en": [
+      "move"
+    ]
+  },
+  {
+    "sw": "haki",
+    "en": [
+      "right"
+    ]
+  },
+  {
+    "sw": "mvulana",
+    "en": [
+      "boy"
+    ]
+  },
+  {
+    "sw": "umri wa",
+    "en": [
+      "old"
+    ]
+  },
+  {
+    "sw": "pia",
+    "en": [
+      "too"
+    ]
+  },
+  {
+    "sw": "sawa",
+    "en": [
+      "same"
+    ]
+  },
+  {
+    "sw": "yeye",
+    "en": [
+      "she"
+    ]
+  },
+  {
+    "sw": "kila",
+    "en": [
+      "all"
+    ]
+  },
+  {
+    "sw": "huko",
+    "en": [
+      "there"
+    ]
+  },
+  {
+    "sw": "wakati",
+    "en": [
+      "when"
+    ]
+  },
+  {
+    "sw": "up",
+    "en": [
+      "up"
+    ]
+  },
+  {
+    "sw": "kutumia",
+    "en": [
+      "use"
+    ]
+  },
+  {
+    "sw": "yako",
+    "en": [
+      "your"
+    ]
+  },
+  {
+    "sw": "njia",
+    "en": [
+      "way"
+    ]
+  },
+  {
+    "sw": "kuhusu",
+    "en": [
+      "about"
+    ]
+  },
+  {
+    "sw": "wengi",
+    "en": [
+      "many"
+    ]
+  },
+  {
+    "sw": "kisha",
+    "en": [
+      "then"
+    ]
+  },
+  {
+    "sw": "yao",
+    "en": [
+      "them"
+    ]
+  },
+  {
+    "sw": "kuandika",
+    "en": [
+      "write"
+    ]
+  },
+  {
+    "sw": "ingekuwa",
+    "en": [
+      "would"
+    ]
+  },
+  {
+    "sw": "kama",
+    "en": [
+      "like"
+    ]
+  },
+  {
+    "sw": "hivyo",
+    "en": [
+      "so"
+    ]
+  },
+  {
+    "sw": "haya",
+    "en": [
+      "these"
+    ]
+  },
+  {
+    "sw": "yake",
+    "en": [
+      "her"
+    ]
+  },
+  {
+    "sw": "muda mrefu",
+    "en": [
+      "long"
+    ]
+  },
+  {
+    "sw": "kufanya",
+    "en": [
+      "make"
+    ]
+  },
+  {
+    "sw": "kitu",
+    "en": [
+      "thing"
+    ]
+  },
+  {
+    "sw": "kuona",
+    "en": [
+      "see"
+    ]
+  },
+  {
+    "sw": "naye",
+    "en": [
+      "him"
+    ]
+  },
+  {
+    "sw": "mbili",
+    "en": [
+      "two"
+    ]
+  },
+  {
+    "sw": "ina",
+    "en": [
+      "has"
+    ]
+  },
+  {
+    "sw": "kuangalia",
+    "en": [
+      "look"
+    ]
+  },
+  {
+    "sw": "zaidi",
+    "en": [
+      "more"
+    ]
+  },
+  {
+    "sw": "siku",
+    "en": [
+      "day"
+    ]
+  },
+  {
+    "sw": "inaweza",
+    "en": [
+      "could"
+    ]
+  },
+  {
+    "sw": "kwenda",
+    "en": [
+      "go"
+    ]
+  },
+  {
+    "sw": "kuja",
+    "en": [
+      "come"
+    ]
+  },
+  {
+    "sw": "alifanya",
+    "en": [
+      "did"
+    ]
+  },
+  {
+    "sw": "simu",
+    "en": [
+      "number"
+    ]
+  },
+  {
+    "sw": "sauti",
+    "en": [
+      "sound"
+    ]
+  },
+  {
+    "sw": "hakuna",
+    "en": [
+      "no"
+    ]
+  },
+  {
+    "sw": "zaidi",
+    "en": [
+      "most"
+    ]
+  },
+  {
+    "sw": "watu",
+    "en": [
+      "people"
+    ]
+  },
+  {
+    "sw": "yangu",
+    "en": [
+      "my"
+    ]
+  },
+  {
+    "sw": "juu ya",
+    "en": [
+      "over"
+    ]
+  },
+  {
+    "sw": "kujua",
+    "en": [
+      "know"
+    ]
+  },
+  {
+    "sw": "maji",
+    "en": [
+      "water"
+    ]
+  },
+  {
+    "sw": "kuliko",
+    "en": [
+      "than"
+    ]
+  },
+  {
+    "sw": "simu",
+    "en": [
+      "call"
+    ]
+  },
+  {
+    "sw": "kwanza",
+    "en": [
+      "first"
+    ]
+  },
+  {
+    "sw": "ambao",
+    "en": [
+      "who"
+    ]
+  },
+  {
+    "sw": "inaweza",
+    "en": [
+      "may"
+    ]
+  },
+  {
+    "sw": "chini",
+    "en": [
+      "down"
+    ]
+  },
+  {
+    "sw": "upande",
+    "en": [
+      "side"
+    ]
+  },
+  {
+    "sw": "imekuwa",
+    "en": [
+      "been"
+    ]
+  },
+  {
+    "sw": "sasa",
+    "en": [
+      "now"
+    ]
+  },
+  {
+    "sw": "kupata",
+    "en": [
+      "find"
+    ]
+  },
+  {
+    "sw": "kichwa",
+    "en": [
+      "head"
+    ]
+  },
+  {
+    "sw": "kusimama",
+    "en": [
+      "stand"
+    ]
+  },
+  {
+    "sw": "mwenyewe",
+    "en": [
+      "own"
+    ]
+  },
+  {
+    "sw": "ukurasa",
+    "en": [
+      "page"
+    ]
+  },
+  {
+    "sw": "lazima",
+    "en": [
+      "should"
+    ]
+  },
+  {
+    "sw": "nchi",
+    "en": [
+      "country"
+    ]
+  },
+  {
+    "sw": "kupatikana",
+    "en": [
+      "found"
+    ]
+  },
+  {
+    "sw": "jibu",
+    "en": [
+      "answer"
+    ]
+  },
+  {
+    "sw": "shule",
+    "en": [
+      "school"
+    ]
+  },
+  {
+    "sw": "kukua",
+    "en": [
+      "grow"
+    ]
+  },
+  {
+    "sw": "utafiti",
+    "en": [
+      "study"
+    ]
+  },
+  {
+    "sw": "bado",
+    "en": [
+      "still"
+    ]
+  },
+  {
+    "sw": "kujifunza",
+    "en": [
+      "learn"
+    ]
+  },
+  {
+    "sw": "kupanda",
+    "en": [
+      "plant"
+    ]
+  },
+  {
+    "sw": "cover",
+    "en": [
+      "cover"
+    ]
+  },
+  {
+    "sw": "chakula",
+    "en": [
+      "food"
+    ]
+  },
+  {
+    "sw": "jua",
+    "en": [
+      "sun"
+    ]
+  },
+  {
+    "sw": "nne",
+    "en": [
+      "four"
+    ]
+  },
+  {
+    "sw": "kati ya",
+    "en": [
+      "between"
+    ]
+  },
+  {
+    "sw": "hali",
+    "en": [
+      "state"
+    ]
+  },
+  {
+    "sw": "kuweka",
+    "en": [
+      "keep"
+    ]
+  },
+  {
+    "sw": "jicho",
+    "en": [
+      "eye"
+    ]
+  },
+  {
+    "sw": "kamwe",
+    "en": [
+      "never"
+    ]
+  },
+  {
+    "sw": "mwisho",
+    "en": [
+      "last"
+    ]
+  },
+  {
+    "sw": "basi",
+    "en": [
+      "let"
+    ]
+  },
+  {
+    "sw": "wazo",
+    "en": [
+      "thought"
+    ]
+  },
+  {
+    "sw": "mji",
+    "en": [
+      "city"
+    ]
+  },
+  {
+    "sw": "ya mti",
+    "en": [
+      "tree"
+    ]
+  },
+  {
+    "sw": "msalaba",
+    "en": [
+      "cross"
+    ]
+  },
+  {
+    "sw": "shamba",
+    "en": [
+      "farm"
+    ]
+  },
+  {
+    "sw": "ngumu",
+    "en": [
+      "hard"
+    ]
+  },
+  {
+    "sw": "kuanza",
+    "en": [
+      "start"
+    ]
+  },
+  {
+    "sw": "nguvu",
+    "en": [
+      "might"
+    ]
+  },
+  {
+    "sw": "hadithi",
+    "en": [
+      "story"
+    ]
+  },
+  {
+    "sw": "saw",
+    "en": [
+      "saw"
+    ]
+  },
+  {
+    "sw": "mbali",
+    "en": [
+      "far"
+    ]
+  },
+  {
+    "sw": "bahari",
+    "en": [
+      "sea"
+    ]
+  },
+  {
+    "sw": "kuteka",
+    "en": [
+      "draw"
+    ]
+  },
+  {
+    "sw": "kushoto",
+    "en": [
+      "left"
+    ]
+  },
+  {
+    "sw": "marehemu",
+    "en": [
+      "late"
+    ]
+  },
+  {
+    "sw": "kukimbia",
+    "en": [
+      "run"
+    ]
+  },
+  {
+    "sw": "kufanya si",
+    "en": [
+      "don’t"
+    ]
+  },
+  {
+    "sw": "wakati",
+    "en": [
+      "while"
+    ]
+  },
+  {
+    "sw": "vyombo vya habari",
+    "en": [
+      "press"
+    ]
+  },
+  {
+    "sw": "karibu",
+    "en": [
+      "close"
+    ]
+  },
+  {
+    "sw": "usiku",
+    "en": [
+      "night"
+    ]
+  },
+  {
+    "sw": "halisi",
+    "en": [
+      "real"
+    ]
+  },
+  {
+    "sw": "maisha",
+    "en": [
+      "life"
+    ]
+  },
+  {
+    "sw": "chache",
+    "en": [
+      "few"
+    ]
+  },
+  {
+    "sw": "kaskazini",
+    "en": [
+      "north"
+    ]
+  },
+  {
+    "sw": "kitabu",
+    "en": [
+      "book"
+    ]
+  },
+  {
+    "sw": "kubeba",
+    "en": [
+      "carry"
+    ]
+  },
+  {
+    "sw": "alichukua",
+    "en": [
+      "took"
+    ]
+  },
+  {
+    "sw": "sayansi",
+    "en": [
+      "science"
+    ]
+  },
+  {
+    "sw": "kula",
+    "en": [
+      "eat"
+    ]
+  },
+  {
+    "sw": "chumba",
+    "en": [
+      "room"
+    ]
+  },
+  {
+    "sw": "rafiki",
+    "en": [
+      "friend"
+    ]
+  },
+  {
+    "sw": "alianza",
+    "en": [
+      "began"
+    ]
+  },
+  {
+    "sw": "wazo",
+    "en": [
+      "idea"
+    ]
+  },
+  {
+    "sw": "samaki",
+    "en": [
+      "fish"
+    ]
+  },
+  {
+    "sw": "mlima",
+    "en": [
+      "mountain"
+    ]
+  },
+  {
+    "sw": "kuacha",
+    "en": [
+      "stop"
+    ]
+  },
+  {
+    "sw": "mara moja",
+    "en": [
+      "once"
+    ]
+  },
+  {
+    "sw": "msingi",
+    "en": [
+      "base"
+    ]
+  },
+  {
+    "sw": "kusikia",
+    "en": [
+      "hear"
+    ]
+  },
+  {
+    "sw": "farasi",
+    "en": [
+      "horse"
+    ]
+  },
+  {
+    "sw": "kata",
+    "en": [
+      "cut"
+    ]
+  },
+  {
+    "sw": "uhakika",
+    "en": [
+      "sure"
+    ]
+  },
+  {
+    "sw": "kuangalia",
+    "en": [
+      "watch"
+    ]
+  },
+  {
+    "sw": "rangi",
+    "en": [
+      "color"
+    ]
+  },
+  {
+    "sw": "uso",
+    "en": [
+      "face"
+    ]
+  },
+  {
+    "sw": "mbao",
+    "en": [
+      "wood"
+    ]
+  },
+  {
+    "sw": "kuu",
+    "en": [
+      "main"
+    ]
+  },
+  {
+    "sw": "wazi",
+    "en": [
+      "open"
+    ]
+  },
+  {
+    "sw": "wanaonekana",
+    "en": [
+      "seem"
+    ]
+  },
+  {
+    "sw": "pamoja",
+    "en": [
+      "together"
+    ]
+  },
+  {
+    "sw": "ijayo",
+    "en": [
+      "next"
+    ]
+  },
+  {
+    "sw": "nyeupe",
+    "en": [
+      "white"
+    ]
+  },
+  {
+    "sw": "watoto",
+    "en": [
+      "children"
+    ]
+  },
+  {
+    "sw": "kuanza",
+    "en": [
+      "begin"
+    ]
+  },
+  {
+    "sw": "got",
+    "en": [
+      "got"
+    ]
+  },
+  {
+    "sw": "kutembea",
+    "en": [
+      "walk"
+    ]
+  },
+  {
+    "sw": "mfano",
+    "en": [
+      "example"
+    ]
+  },
+  {
+    "sw": "kupunguza",
+    "en": [
+      "ease"
+    ]
+  },
+  {
+    "sw": "karatasi",
+    "en": [
+      "paper"
+    ]
+  },
+  {
+    "sw": "kundi",
+    "en": [
+      "group"
+    ]
+  },
+  {
+    "sw": "daima",
+    "en": [
+      "always"
+    ]
+  },
+  {
+    "sw": "muziki",
+    "en": [
+      "music"
+    ]
+  },
+  {
+    "sw": "wale",
+    "en": [
+      "those"
+    ]
+  },
+  {
+    "sw": "wote wawili",
+    "en": [
+      "both"
+    ]
+  },
+  {
+    "sw": "alama",
+    "en": [
+      "mark"
+    ]
+  },
+  {
+    "sw": "mara nyingi",
+    "en": [
+      "often"
+    ]
+  },
+  {
+    "sw": "barua",
+    "en": [
+      "letter"
+    ]
+  },
+  {
+    "sw": "mpaka",
+    "en": [
+      "until"
+    ]
+  },
+  {
+    "sw": "maili",
+    "en": [
+      "mile"
+    ]
+  },
+  {
+    "sw": "mto",
+    "en": [
+      "river"
+    ]
+  },
+  {
+    "sw": "gari",
+    "en": [
+      "car"
+    ]
+  },
+  {
+    "sw": "miguu",
+    "en": [
+      "feet"
+    ]
+  },
+  {
+    "sw": "huduma",
+    "en": [
+      "care"
+    ]
+  },
+  {
+    "sw": "pili",
+    "en": [
+      "second"
+    ]
+  },
+  {
+    "sw": "kutosha",
+    "en": [
+      "enough"
+    ]
+  },
+  {
+    "sw": "wazi",
+    "en": [
+      "plain"
+    ]
+  },
+  {
+    "sw": "msichana",
+    "en": [
+      "girl"
+    ]
+  },
+  {
+    "sw": "kawaida",
+    "en": [
+      "usual"
+    ]
+  },
+  {
+    "sw": "vijana",
+    "en": [
+      "young"
+    ]
+  },
+  {
+    "sw": "tayari",
+    "en": [
+      "ready"
+    ]
+  },
+  {
+    "sw": "juu",
+    "en": [
+      "above"
+    ]
+  },
+  {
+    "sw": "milele",
+    "en": [
+      "ever"
+    ]
+  },
+  {
+    "sw": "nyekundu",
+    "en": [
+      "red"
+    ]
+  },
+  {
+    "sw": "orodha",
+    "en": [
+      "list"
+    ]
+  },
+  {
+    "sw": "ingawa",
+    "en": [
+      "though"
+    ]
+  },
+  {
+    "sw": "kujisikia",
+    "en": [
+      "feel"
+    ]
+  },
+  {
+    "sw": "majadiliano",
+    "en": [
+      "talk"
+    ]
+  },
+  {
+    "sw": "ndege",
+    "en": [
+      "bird"
+    ]
+  },
+  {
+    "sw": "hivi karibuni",
+    "en": [
+      "soon"
+    ]
+  },
+  {
+    "sw": "mwili",
+    "en": [
+      "body"
+    ]
+  },
+  {
+    "sw": "mbwa",
+    "en": [
+      "dog"
+    ]
+  },
+  {
+    "sw": "familia",
+    "en": [
+      "family"
+    ]
+  },
+  {
+    "sw": "moja kwa moja",
+    "en": [
+      "direct"
+    ]
+  },
+  {
+    "sw": "litasababisha",
+    "en": [
+      "pose"
+    ]
+  },
+  {
+    "sw": "kuondoka",
+    "en": [
+      "leave"
+    ]
+  },
+  {
+    "sw": "wimbo",
+    "en": [
+      "song"
+    ]
+  },
+  {
+    "sw": "kupima",
+    "en": [
+      "measure"
+    ]
+  },
+  {
+    "sw": "mlango",
+    "en": [
+      "door"
+    ]
+  },
+  {
+    "sw": "bidhaa",
+    "en": [
+      "product"
+    ]
+  },
+  {
+    "sw": "nyeusi",
+    "en": [
+      "black"
+    ]
+  },
+  {
+    "sw": "mfupi",
+    "en": [
+      "short"
+    ]
+  },
+  {
+    "sw": "numeral",
+    "en": [
+      "numeral"
+    ]
+  },
+  {
+    "sw": "darasa",
+    "en": [
+      "class"
+    ]
+  },
+  {
+    "sw": "upepo",
+    "en": [
+      "wind"
+    ]
+  },
+  {
+    "sw": "swali",
+    "en": [
+      "question"
+    ]
+  },
+  {
+    "sw": "kutokea",
+    "en": [
+      "happen"
+    ]
+  },
+  {
+    "sw": "kamili",
+    "en": [
+      "complete"
+    ]
+  },
+  {
+    "sw": "meli",
+    "en": [
+      "ship"
+    ]
+  },
+  {
+    "sw": "eneo",
+    "en": [
+      "area"
+    ]
+  },
+  {
+    "sw": "nusu",
+    "en": [
+      "half"
+    ]
+  },
+  {
+    "sw": "mwamba",
+    "en": [
+      "rock"
+    ]
+  },
+  {
+    "sw": "ili",
+    "en": [
+      "order"
+    ]
+  },
+  {
+    "sw": "moto",
+    "en": [
+      "fire"
+    ]
+  },
+  {
+    "sw": "kusini",
+    "en": [
+      "south"
+    ]
+  },
+  {
+    "sw": "tatizo",
+    "en": [
+      "problem"
+    ]
+  },
+  {
+    "sw": "kipande",
+    "en": [
+      "piece"
+    ]
+  },
+  {
+    "sw": "aliiambia",
+    "en": [
+      "told"
+    ]
+  },
+  {
+    "sw": "alijua",
+    "en": [
+      "knew"
+    ]
+  },
+  {
+    "sw": "kupita",
+    "en": [
+      "pass"
+    ]
+  },
+  {
+    "sw": "tangu",
+    "en": [
+      "since"
+    ]
+  },
+  {
+    "sw": "juu",
+    "en": [
+      "top"
+    ]
+  },
+  {
+    "sw": "zima",
+    "en": [
+      "whole"
+    ]
+  },
+  {
+    "sw": "mfalme",
+    "en": [
+      "king"
+    ]
+  },
+  {
+    "sw": "mitaani",
+    "en": [
+      "street"
+    ]
+  },
+  {
+    "sw": "inchi",
+    "en": [
+      "inch"
+    ]
+  },
+  {
+    "sw": "kuzidisha",
+    "en": [
+      "multiply"
+    ]
+  },
+  {
+    "sw": "chochote",
+    "en": [
+      "nothing"
+    ]
+  },
+  {
+    "sw": "Bila shaka",
+    "en": [
+      "course"
+    ]
+  },
+  {
+    "sw": "kukaa",
+    "en": [
+      "stay"
+    ]
+  },
+  {
+    "sw": "gurudumu",
+    "en": [
+      "wheel"
+    ]
+  },
+  {
+    "sw": "full",
+    "en": [
+      "full"
+    ]
+  },
+  {
+    "sw": "nguvu",
+    "en": [
+      "force"
+    ]
+  },
+  {
+    "sw": "bluu",
+    "en": [
+      "blue"
+    ]
+  },
+  {
+    "sw": "kitu",
+    "en": [
+      "object"
+    ]
+  },
+  {
+    "sw": "kuamua",
+    "en": [
+      "decide"
+    ]
+  },
+  {
+    "sw": "uso",
+    "en": [
+      "surface"
+    ]
+  },
+  {
+    "sw": "kina",
+    "en": [
+      "deep"
+    ]
+  },
+  {
+    "sw": "mwezi",
+    "en": [
+      "moon"
+    ]
+  },
+  {
+    "sw": "kisiwa",
+    "en": [
+      "island"
+    ]
+  },
+  {
+    "sw": "mguu",
+    "en": [
+      "foot"
+    ]
+  },
+  {
+    "sw": "mfumo",
+    "en": [
+      "system"
+    ]
+  },
+  {
+    "sw": "busy",
+    "en": [
+      "busy"
+    ]
+  },
+  {
+    "sw": "mtihani",
+    "en": [
+      "test"
+    ]
+  },
+  {
+    "sw": "rekodi",
+    "en": [
+      "record"
+    ]
+  },
+  {
+    "sw": "mashua",
+    "en": [
+      "boat"
+    ]
+  },
+  {
+    "sw": "kawaida",
+    "en": [
+      "common"
+    ]
+  },
+  {
+    "sw": "dhahabu",
+    "en": [
+      "gold"
+    ]
+  },
+  {
+    "sw": "iwezekanavyo",
+    "en": [
+      "possible"
+    ]
+  },
+  {
+    "sw": "ndege",
+    "en": [
+      "plane"
+    ]
+  },
+  {
+    "sw": "badala",
+    "en": [
+      "stead"
+    ]
+  },
+  {
+    "sw": "kavu",
+    "en": [
+      "dry"
+    ]
+  },
+  {
+    "sw": "ajabu",
+    "en": [
+      "wonder"
+    ]
+  },
+  {
+    "sw": "kucheka",
+    "en": [
+      "laugh"
+    ]
+  },
+  {
+    "sw": "elfu",
+    "en": [
+      "thousand"
+    ]
+  },
+  {
+    "sw": "iliyopita",
+    "en": [
+      "ago"
+    ]
+  },
+  {
+    "sw": "mbio",
+    "en": [
+      "ran"
+    ]
+  },
+  {
+    "sw": "kuangalia",
+    "en": [
+      "check"
+    ]
+  },
+  {
+    "sw": "mchezo",
+    "en": [
+      "game"
+    ]
+  },
+  {
+    "sw": "sura",
+    "en": [
+      "shape"
+    ]
+  },
+  {
+    "sw": "wanalinganisha",
+    "en": [
+      "equate"
+    ]
+  },
+  {
+    "sw": "moto",
+    "en": [
+      "hot"
+    ]
+  },
+  {
+    "sw": "miss ya",
+    "en": [
+      "miss"
+    ]
+  },
+  {
+    "sw": "kuletwa",
+    "en": [
+      "brought"
+    ]
+  },
+  {
+    "sw": "joto",
+    "en": [
+      "heat"
+    ]
+  },
+  {
+    "sw": "theluji",
+    "en": [
+      "snow"
+    ]
+  },
+  {
+    "sw": "tairi",
+    "en": [
+      "tire"
+    ]
+  },
+  {
+    "sw": "kuleta",
+    "en": [
+      "bring"
+    ]
+  },
+  {
+    "sw": "ndiyo",
+    "en": [
+      "yes"
+    ]
+  },
+  {
+    "sw": "mbali",
+    "en": [
+      "distant"
+    ]
+  },
+  {
+    "sw": "kujaza",
+    "en": [
+      "fill"
+    ]
+  },
+  {
+    "sw": "mashariki",
+    "en": [
+      "east"
+    ]
+  },
+  {
+    "sw": "rangi",
+    "en": [
+      "paint"
+    ]
+  },
+  {
+    "sw": "lugha",
+    "en": [
+      "language"
+    ]
+  },
+  {
+    "sw": "kati ya",
+    "en": [
+      "among"
+    ]
+  },
+  {
+    "sw": "kitengo",
+    "en": [
+      "unit"
+    ]
+  },
+  {
+    "sw": "nguvu",
+    "en": [
+      "power"
+    ]
+  },
+  {
+    "sw": "mji",
+    "en": [
+      "town"
+    ]
+  },
+  {
+    "sw": "faini",
+    "en": [
+      "fine"
+    ]
+  },
+  {
+    "sw": "baadhi ya",
+    "en": [
+      "certain"
+    ]
+  },
+  {
+    "sw": "kuruka",
+    "en": [
+      "fly"
+    ]
+  },
+  {
+    "sw": "kuanguka",
+    "en": [
+      "fall"
+    ]
+  },
+  {
+    "sw": "kusababisha",
+    "en": [
+      "lead"
+    ]
+  },
+  {
+    "sw": "kilio",
+    "en": [
+      "cry"
+    ]
+  },
+  {
+    "sw": "giza",
+    "en": [
+      "dark"
+    ]
+  },
+  {
+    "sw": "mashine",
+    "en": [
+      "machine"
+    ]
+  },
+  {
+    "sw": "note",
+    "en": [
+      "note"
+    ]
+  },
+  {
+    "sw": "kusubiri",
+    "en": [
+      "wait"
+    ]
+  },
+  {
+    "sw": "mpango",
+    "en": [
+      "plan"
+    ]
+  },
+  {
+    "sw": "takwimu",
+    "en": [
+      "figure"
+    ]
+  },
+  {
+    "sw": "nyota",
+    "en": [
+      "star"
+    ]
+  },
+  {
+    "sw": "sanduku",
+    "en": [
+      "box"
+    ]
+  },
+  {
+    "sw": "nomino",
+    "en": [
+      "noun"
+    ]
+  },
+  {
+    "sw": "shamba",
+    "en": [
+      "field"
+    ]
+  },
+  {
+    "sw": "wengine",
+    "en": [
+      "rest"
+    ]
+  },
+  {
+    "sw": "sahihi",
+    "en": [
+      "correct"
+    ]
+  },
+  {
+    "sw": "uwezo",
+    "en": [
+      "able"
+    ]
+  },
+  {
+    "sw": "chupa",
+    "en": [
+      "pound"
+    ]
+  },
+  {
+    "sw": "kutenda",
+    "en": [
+      "done"
+    ]
+  },
+  {
+    "sw": "uzuri",
+    "en": [
+      "beauty"
+    ]
+  },
+  {
+    "sw": "gari",
+    "en": [
+      "drive"
+    ]
+  },
+  {
+    "sw": "alisimama",
+    "en": [
+      "stood"
+    ]
+  },
+  {
+    "sw": "vyenye",
+    "en": [
+      "contain"
+    ]
+  },
+  {
+    "sw": "mbele",
+    "en": [
+      "front"
+    ]
+  },
+  {
+    "sw": "kufundisha",
+    "en": [
+      "teach"
+    ]
+  },
+  {
+    "sw": "wiki",
+    "en": [
+      "week"
+    ]
+  },
+  {
+    "sw": "mwisho",
+    "en": [
+      "final"
+    ]
+  },
+  {
+    "sw": "alitoa",
+    "en": [
+      "gave"
+    ]
+  },
+  {
+    "sw": "kijani",
+    "en": [
+      "green"
+    ]
+  },
+  {
+    "sw": "oh",
+    "en": [
+      "oh"
+    ]
+  },
+  {
+    "sw": "haraka",
+    "en": [
+      "quick"
+    ]
+  },
+  {
+    "sw": "kuendeleza",
+    "en": [
+      "develop"
+    ]
+  },
+  {
+    "sw": "bahari",
+    "en": [
+      "ocean"
+    ]
+  },
+  {
+    "sw": "joto",
+    "en": [
+      "warm"
+    ]
+  },
+  {
+    "sw": "bure",
+    "en": [
+      "free"
+    ]
+  },
+  {
+    "sw": "dakika",
+    "en": [
+      "minute"
+    ]
+  },
+  {
+    "sw": "nguvu",
+    "en": [
+      "strong"
+    ]
+  },
+  {
+    "sw": "maalum",
+    "en": [
+      "special"
+    ]
+  },
+  {
+    "sw": "akili",
+    "en": [
+      "mind"
+    ]
+  },
+  {
+    "sw": "nyuma ya",
+    "en": [
+      "behind"
+    ]
+  },
+  {
+    "sw": "wazi",
+    "en": [
+      "clear"
+    ]
+  },
+  {
+    "sw": "mkia",
+    "en": [
+      "tail"
+    ]
+  },
+  {
+    "sw": "kuzalisha",
+    "en": [
+      "produce"
+    ]
+  },
+  {
+    "sw": "ukweli",
+    "en": [
+      "fact"
+    ]
+  },
+  {
+    "sw": "nafasi",
+    "en": [
+      "space"
+    ]
+  },
+  {
+    "sw": "habari",
+    "en": [
+      "heard"
+    ]
+  },
+  {
+    "sw": "bora",
+    "en": [
+      "best"
+    ]
+  },
+  {
+    "sw": "saa",
+    "en": [
+      "hour"
+    ]
+  },
+  {
+    "sw": "bora",
+    "en": [
+      "better"
+    ]
+  },
+  {
+    "sw": "kweli",
+    "en": [
+      "true"
+    ]
+  },
+  {
+    "sw": "wakati wa",
+    "en": [
+      "during"
+    ]
+  },
+  {
+    "sw": "mia",
+    "en": [
+      "hundred"
+    ]
+  },
+  {
+    "sw": "tano",
+    "en": [
+      "five"
+    ]
+  },
+  {
+    "sw": "kumbuka",
+    "en": [
+      "remember"
+    ]
+  },
+  {
+    "sw": "hatua",
+    "en": [
+      "step"
+    ]
+  },
+  {
+    "sw": "mapema",
+    "en": [
+      "early"
+    ]
+  },
+  {
+    "sw": "kushikilia",
+    "en": [
+      "hold"
+    ]
+  },
+  {
+    "sw": "magharibi",
+    "en": [
+      "west"
+    ]
+  },
+  {
+    "sw": "ardhi",
+    "en": [
+      "ground"
+    ]
+  },
+  {
+    "sw": "maslahi",
+    "en": [
+      "interest"
+    ]
+  },
+  {
+    "sw": "kufikia",
+    "en": [
+      "reach"
+    ]
+  },
+  {
+    "sw": "haraka",
+    "en": [
+      "fast"
+    ]
+  },
+  {
+    "sw": "kitenzi",
+    "en": [
+      "verb"
+    ]
+  },
+  {
+    "sw": "kuimba",
+    "en": [
+      "sing"
+    ]
+  },
+  {
+    "sw": "kusikiliza",
+    "en": [
+      "listen"
+    ]
+  },
+  {
+    "sw": "sita",
+    "en": [
+      "six"
+    ]
+  },
+  {
+    "sw": "meza",
+    "en": [
+      "table"
+    ]
+  },
+  {
+    "sw": "usafiri",
+    "en": [
+      "travel"
+    ]
+  },
+  {
+    "sw": "chini ya",
+    "en": [
+      "less"
+    ]
+  },
+  {
+    "sw": "asubuhi",
+    "en": [
+      "morning"
+    ]
+  },
+  {
+    "sw": "kumi",
+    "en": [
+      "ten"
+    ]
+  },
+  {
+    "sw": "rahisi",
+    "en": [
+      "simple"
+    ]
+  },
+  {
+    "sw": "kadhaa",
+    "en": [
+      "several"
+    ]
+  },
+  {
+    "sw": "vowel",
+    "en": [
+      "vowel"
+    ]
+  },
+  {
+    "sw": "kuelekea",
+    "en": [
+      "toward"
+    ]
+  },
+  {
+    "sw": "vita",
+    "en": [
+      "war"
+    ]
+  },
+  {
+    "sw": "kuweka",
+    "en": [
+      "lay"
+    ]
+  },
+  {
+    "sw": "dhidi ya",
+    "en": [
+      "against"
+    ]
+  },
+  {
+    "sw": "muundo",
+    "en": [
+      "pattern"
+    ]
+  },
+  {
+    "sw": "polepole",
+    "en": [
+      "slow"
+    ]
+  },
+  {
+    "sw": "kituo cha",
+    "en": [
+      "center"
+    ]
+  },
+  {
+    "sw": "upendo",
+    "en": [
+      "love"
+    ]
+  },
+  {
+    "sw": "mtu",
+    "en": [
+      "person"
+    ]
+  },
+  {
+    "sw": "fedha",
+    "en": [
+      "money"
+    ]
+  },
+  {
+    "sw": "kutumika",
+    "en": [
+      "serve"
+    ]
+  },
+  {
+    "sw": "itaonekana",
+    "en": [
+      "appear"
+    ]
+  },
+  {
+    "sw": "barabara",
+    "en": [
+      "road"
+    ]
+  },
+  {
+    "sw": "ramani",
+    "en": [
+      "map"
+    ]
+  },
+  {
+    "sw": "mvua",
+    "en": [
+      "rain"
+    ]
+  },
+  {
+    "sw": "utawala",
+    "en": [
+      "rule"
+    ]
+  },
+  {
+    "sw": "serikali",
+    "en": [
+      "govern"
+    ]
+  },
+  {
+    "sw": "kuvuta",
+    "en": [
+      "pull"
+    ]
+  },
+  {
+    "sw": "baridi",
+    "en": [
+      "cold"
+    ]
+  },
+  {
+    "sw": "ilani",
+    "en": [
+      "notice"
+    ]
+  },
+  {
+    "sw": "sauti",
+    "en": [
+      "voice"
+    ]
+  },
+  {
+    "sw": "nishati",
+    "en": [
+      "energy"
+    ]
+  },
+  {
+    "sw": "kuwinda",
+    "en": [
+      "hunt"
+    ]
+  },
+  {
+    "sw": "kinachowezekana",
+    "en": [
+      "probable"
+    ]
+  },
+  {
+    "sw": "kitanda",
+    "en": [
+      "bed"
+    ]
+  },
+  {
+    "sw": "ndugu",
+    "en": [
+      "brother"
+    ]
+  },
+  {
+    "sw": "yai",
+    "en": [
+      "egg"
+    ]
+  },
+  {
+    "sw": "safari",
+    "en": [
+      "ride"
+    ]
+  },
+  {
+    "sw": "kiini",
+    "en": [
+      "cell"
+    ]
+  },
+  {
+    "sw": "amini",
+    "en": [
+      "believe"
+    ]
+  },
+  {
+    "sw": "labda",
+    "en": [
+      "perhaps"
+    ]
+  },
+  {
+    "sw": "kuchukua",
+    "en": [
+      "pick"
+    ]
+  },
+  {
+    "sw": "ghafla",
+    "en": [
+      "sudden"
+    ]
+  },
+  {
+    "sw": "kuhesabu",
+    "en": [
+      "count"
+    ]
+  },
+  {
+    "sw": "mraba",
+    "en": [
+      "square"
+    ]
+  },
+  {
+    "sw": "sababu",
+    "en": [
+      "reason"
+    ]
+  },
+  {
+    "sw": "urefu",
+    "en": [
+      "length"
+    ]
+  },
+  {
+    "sw": "kuwakilisha",
+    "en": [
+      "represent"
+    ]
+  },
+  {
+    "sw": "sanaa",
+    "en": [
+      "art"
+    ]
+  },
+  {
+    "sw": "somo",
+    "en": [
+      "subject"
+    ]
+  },
+  {
+    "sw": "kanda",
+    "en": [
+      "region"
+    ]
+  },
+  {
+    "sw": "ukubwa",
+    "en": [
+      "size"
+    ]
+  },
+  {
+    "sw": "kutofautiana",
+    "en": [
+      "vary"
+    ]
+  },
+  {
+    "sw": "kuishi",
+    "en": [
+      "settle"
+    ]
+  },
+  {
+    "sw": "kusema",
+    "en": [
+      "speak"
+    ]
+  },
+  {
+    "sw": "uzito",
+    "en": [
+      "weight"
+    ]
+  },
+  {
+    "sw": "ujumla",
+    "en": [
+      "general"
+    ]
+  },
+  {
+    "sw": "barafu",
+    "en": [
+      "ice"
+    ]
+  },
+  {
+    "sw": "jambo",
+    "en": [
+      "matter"
+    ]
+  },
+  {
+    "sw": "mzunguko",
+    "en": [
+      "circle"
+    ]
+  },
+  {
+    "sw": "jozi",
+    "en": [
+      "pair"
+    ]
+  },
+  {
+    "sw": "ni pamoja na",
+    "en": [
+      "include"
+    ]
+  },
+  {
+    "sw": "mgawanyiko",
+    "en": [
+      "divide"
+    ]
+  },
+  {
+    "sw": "silabi",
+    "en": [
+      "syllable"
+    ]
+  },
+  {
+    "sw": "waliona",
+    "en": [
+      "felt"
+    ]
+  },
+  {
+    "sw": "kuu",
+    "en": [
+      "grand"
+    ]
+  },
+  {
+    "sw": "mpira",
+    "en": [
+      "ball"
+    ]
+  },
+  {
+    "sw": "bado",
+    "en": [
+      "yet"
+    ]
+  },
+  {
+    "sw": "wimbi",
+    "en": [
+      "wave"
+    ]
+  },
+  {
+    "sw": "kuacha",
+    "en": [
+      "drop"
+    ]
+  },
+  {
+    "sw": "moyo",
+    "en": [
+      "heart"
+    ]
+  },
+  {
+    "sw": "ni",
+    "en": [
+      "am"
+    ]
+  },
+  {
+    "sw": "sasa",
+    "en": [
+      "present"
+    ]
+  },
+  {
+    "sw": "nzito",
+    "en": [
+      "heavy"
+    ]
+  },
+  {
+    "sw": "ngoma",
+    "en": [
+      "dance"
+    ]
+  },
+  {
+    "sw": "injini",
+    "en": [
+      "engine"
+    ]
+  },
+  {
+    "sw": "nafasi",
+    "en": [
+      "position"
+    ]
+  },
+  {
+    "sw": "mkono",
+    "en": [
+      "arm"
+    ]
+  },
+  {
+    "sw": "pana",
+    "en": [
+      "wide"
+    ]
+  },
+  {
+    "sw": "meli",
+    "en": [
+      "sail"
+    ]
+  },
+  {
+    "sw": "vifaa",
+    "en": [
+      "material"
+    ]
+  },
+  {
+    "sw": "sehemu",
+    "en": [
+      "fraction"
+    ]
+  },
+  {
+    "sw": "msitu",
+    "en": [
+      "forest"
+    ]
+  },
+  {
+    "sw": "kukaa",
+    "en": [
+      "sit"
+    ]
+  },
+  {
+    "sw": "mbio",
+    "en": [
+      "race"
+    ]
+  },
+  {
+    "sw": "dirisha",
+    "en": [
+      "window"
+    ]
+  },
+  {
+    "sw": "kuhifadhi",
+    "en": [
+      "store"
+    ]
+  },
+  {
+    "sw": "majira ya joto",
+    "en": [
+      "summer"
+    ]
+  },
+  {
+    "sw": "treni",
+    "en": [
+      "train"
+    ]
+  },
+  {
+    "sw": "usingizi",
+    "en": [
+      "sleep"
+    ]
+  },
+  {
+    "sw": "kuthibitisha",
+    "en": [
+      "prove"
+    ]
+  },
+  {
+    "sw": "ya lone",
+    "en": [
+      "lone"
+    ]
+  },
+  {
+    "sw": "mguu",
+    "en": [
+      "leg"
+    ]
+  },
+  {
+    "sw": "zoezi",
+    "en": [
+      "exercise"
+    ]
+  },
+  {
+    "sw": "ukuta",
+    "en": [
+      "wall"
+    ]
+  },
+  {
+    "sw": "kukamata",
+    "en": [
+      "catch"
+    ]
+  },
+  {
+    "sw": "mlima",
+    "en": [
+      "mount"
+    ]
+  },
+  {
+    "sw": "unataka",
+    "en": [
+      "wish"
+    ]
+  },
+  {
+    "sw": "anga",
+    "en": [
+      "sky"
+    ]
+  },
+  {
+    "sw": "bodi",
+    "en": [
+      "board"
+    ]
+  },
+  {
+    "sw": "furaha",
+    "en": [
+      "joy"
+    ]
+  },
+  {
+    "sw": "majira ya baridi",
+    "en": [
+      "winter"
+    ]
+  },
+  {
+    "sw": "ameketi",
+    "en": [
+      "sat"
+    ]
+  },
+  {
+    "sw": "imeandikwa",
+    "en": [
+      "written"
+    ]
+  },
+  {
+    "sw": "pori",
+    "en": [
+      "wild"
+    ]
+  },
+  {
+    "sw": "chombo",
+    "en": [
+      "instrument"
+    ]
+  },
+  {
+    "sw": "naendelea",
+    "en": [
+      "kept"
+    ]
+  },
+  {
+    "sw": "kioo",
+    "en": [
+      "glass"
+    ]
+  },
+  {
+    "sw": "nyasi",
+    "en": [
+      "grass"
+    ]
+  },
+  {
+    "sw": "ng’ombe",
+    "en": [
+      "cow"
+    ]
+  },
+  {
+    "sw": "kazi",
+    "en": [
+      "job"
+    ]
+  },
+  {
+    "sw": "makali",
+    "en": [
+      "edge"
+    ]
+  },
+  {
+    "sw": "ishara",
+    "en": [
+      "sign"
+    ]
+  },
+  {
+    "sw": "ziara",
+    "en": [
+      "visit"
+    ]
+  },
+  {
+    "sw": "siku za nyuma",
+    "en": [
+      "past"
+    ]
+  },
+  {
+    "sw": "laini",
+    "en": [
+      "soft"
+    ]
+  },
+  {
+    "sw": "furaha",
+    "en": [
+      "fun"
+    ]
+  },
+  {
+    "sw": "mkali",
+    "en": [
+      "bright"
+    ]
+  },
+  {
+    "sw": "gesi",
+    "en": [
+      "gas"
+    ]
+  },
+  {
+    "sw": "hali ya hewa",
+    "en": [
+      "weather"
+    ]
+  },
+  {
+    "sw": "mwezi",
+    "en": [
+      "month"
+    ]
+  },
+  {
+    "sw": "milioni",
+    "en": [
+      "million"
+    ]
+  },
+  {
+    "sw": "kubeba",
+    "en": [
+      "bear"
+    ]
+  },
+  {
+    "sw": "kumaliza",
+    "en": [
+      "finish"
+    ]
+  },
+  {
+    "sw": "furaha",
+    "en": [
+      "happy"
+    ]
+  },
+  {
+    "sw": "matumaini",
+    "en": [
+      "hope"
+    ]
+  },
+  {
+    "sw": "ua",
+    "en": [
+      "flower"
+    ]
+  },
+  {
+    "sw": "nguo",
+    "en": [
+      "clothe"
+    ]
+  },
+  {
+    "sw": "ajabu",
+    "en": [
+      "strange"
+    ]
+  },
+  {
+    "sw": "kuondoka",
+    "en": [
+      "gone"
+    ]
+  },
+  {
+    "sw": "biashara",
+    "en": [
+      "trade"
+    ]
+  },
+  {
+    "sw": "kuimba",
+    "en": [
+      "melody"
+    ]
+  },
+  {
+    "sw": "safari",
+    "en": [
+      "trip"
+    ]
+  },
+  {
+    "sw": "ofisi",
+    "en": [
+      "office"
+    ]
+  },
+  {
+    "sw": "kupokea",
+    "en": [
+      "receive"
+    ]
+  },
+  {
+    "sw": "mstari",
+    "en": [
+      "row"
+    ]
+  },
+  {
+    "sw": "kinywa",
+    "en": [
+      "mouth"
+    ]
+  },
+  {
+    "sw": "halisi",
+    "en": [
+      "exact"
+    ]
+  },
+  {
+    "sw": "ishara",
+    "en": [
+      "symbol"
+    ]
+  },
+  {
+    "sw": "kufa",
+    "en": [
+      "die"
+    ]
+  },
+  {
+    "sw": "angalau",
+    "en": [
+      "least"
+    ]
+  },
+  {
+    "sw": "shida",
+    "en": [
+      "trouble"
+    ]
+  },
+  {
+    "sw": "kelele",
+    "en": [
+      "shout"
+    ]
+  },
+  {
+    "sw": "ila",
+    "en": [
+      "except"
+    ]
+  },
+  {
+    "sw": "aliandika",
+    "en": [
+      "wrote"
+    ]
+  },
+  {
+    "sw": "mbegu",
+    "en": [
+      "seed"
+    ]
+  },
+  {
+    "sw": "tone",
+    "en": [
+      "tone"
+    ]
+  },
+  {
+    "sw": "kujiunga na",
+    "en": [
+      "join"
+    ]
+  },
+  {
+    "sw": "kupendekeza",
+    "en": [
+      "suggest"
+    ]
+  },
+  {
+    "sw": "safi",
+    "en": [
+      "clean"
+    ]
+  },
+  {
+    "sw": "mapumziko",
+    "en": [
+      "break"
+    ]
+  },
+  {
+    "sw": "mwanamke",
+    "en": [
+      "lady"
+    ]
+  },
+  {
+    "sw": "yadi",
+    "en": [
+      "yard"
+    ]
+  },
+  {
+    "sw": "kupanda",
+    "en": [
+      "rise"
+    ]
+  },
+  {
+    "sw": "mbaya",
+    "en": [
+      "bad"
+    ]
+  },
+  {
+    "sw": "pigo",
+    "en": [
+      "blow"
+    ]
+  },
+  {
+    "sw": "mafuta",
+    "en": [
+      "oil"
+    ]
+  },
+  {
+    "sw": "damu",
+    "en": [
+      "blood"
+    ]
+  },
+  {
+    "sw": "kugusa",
+    "en": [
+      "touch"
+    ]
+  },
+  {
+    "sw": "ilikua",
+    "en": [
+      "grew"
+    ]
+  },
+  {
+    "sw": "cent",
+    "en": [
+      "cent"
+    ]
+  },
+  {
+    "sw": "kuchanganya",
+    "en": [
+      "mix"
+    ]
+  },
+  {
+    "sw": "timu",
+    "en": [
+      "team"
+    ]
+  },
+  {
+    "sw": "waya",
+    "en": [
+      "wire"
+    ]
+  },
+  {
+    "sw": "gharama",
+    "en": [
+      "cost"
+    ]
+  },
+  {
+    "sw": "waliopotea",
+    "en": [
+      "lost"
+    ]
+  },
+  {
+    "sw": "kahawia",
+    "en": [
+      "brown"
+    ]
+  },
+  {
+    "sw": "kuvaa",
+    "en": [
+      "wear"
+    ]
+  },
+  {
+    "sw": "bustani",
+    "en": [
+      "garden"
+    ]
+  },
+  {
+    "sw": "sawa",
+    "en": [
+      "equal"
+    ]
+  },
+  {
+    "sw": "alimtuma",
+    "en": [
+      "sent"
+    ]
+  },
+  {
+    "sw": "kuchagua",
+    "en": [
+      "choose"
+    ]
+  },
+  {
+    "sw": "akaanguka",
+    "en": [
+      "fell"
+    ]
+  },
+  {
+    "sw": "fit",
+    "en": [
+      "fit"
+    ]
+  },
+  {
+    "sw": "kati yake",
+    "en": [
+      "flow"
+    ]
+  },
+  {
+    "sw": "haki",
+    "en": [
+      "fair"
+    ]
+  },
+  {
+    "sw": "benki",
+    "en": [
+      "bank"
+    ]
+  },
+  {
+    "sw": "kukusanya",
+    "en": [
+      "collect"
+    ]
+  },
+  {
+    "sw": "kuokoa",
+    "en": [
+      "save"
+    ]
+  },
+  {
+    "sw": "kudhibiti",
+    "en": [
+      "control"
+    ]
+  },
+  {
+    "sw": "decimal",
+    "en": [
+      "decimal"
+    ]
+  },
+  {
+    "sw": "sikio",
+    "en": [
+      "ear"
+    ]
+  },
+  {
+    "sw": "mwingine",
+    "en": [
+      "else"
+    ]
+  },
+  {
+    "sw": "kabisa",
+    "en": [
+      "quite"
+    ]
+  },
+  {
+    "sw": "kuvunja",
+    "en": [
+      "broke"
+    ]
+  },
+  {
+    "sw": "kesi",
+    "en": [
+      "case"
+    ]
+  },
+  {
+    "sw": "katikati",
+    "en": [
+      "middle"
+    ]
+  },
+  {
+    "sw": "kuua",
+    "en": [
+      "kill"
+    ]
+  },
+  {
+    "sw": "mwana",
+    "en": [
+      "son"
+    ]
+  },
+  {
+    "sw": "ziwa",
+    "en": [
+      "lake"
+    ]
+  },
+  {
+    "sw": "wakati",
+    "en": [
+      "moment"
+    ]
+  },
+  {
+    "sw": "wadogo",
+    "en": [
+      "scale"
+    ]
+  },
+  {
+    "sw": "kubwa",
+    "en": [
+      "loud"
+    ]
+  },
+  {
+    "sw": "chemchemi",
+    "en": [
+      "spring"
+    ]
+  },
+  {
+    "sw": "kuchunguza",
+    "en": [
+      "observe"
+    ]
+  },
+  {
+    "sw": "mtoto",
+    "en": [
+      "child"
+    ]
+  },
+  {
+    "sw": "moja kwa moja",
+    "en": [
+      "straight"
+    ]
+  },
+  {
+    "sw": "consonant",
+    "en": [
+      "consonant"
+    ]
+  },
+  {
+    "sw": "taifa",
+    "en": [
+      "nation"
+    ]
+  },
+  {
+    "sw": "kamusi",
+    "en": [
+      "dictionary"
+    ]
+  },
+  {
+    "sw": "maziwa",
+    "en": [
+      "milk"
+    ]
+  },
+  {
+    "sw": "kasi",
+    "en": [
+      "speed"
+    ]
+  },
+  {
+    "sw": "njia",
+    "en": [
+      "method"
+    ]
+  },
+  {
+    "sw": "chombo",
+    "en": [
+      "organ"
+    ]
+  },
+  {
+    "sw": "kulipa",
+    "en": [
+      "pay"
+    ]
+  },
+  {
+    "sw": "umri",
+    "en": [
+      "age"
+    ]
+  },
+  {
+    "sw": "sehemu",
+    "en": [
+      "section"
+    ]
+  },
+  {
+    "sw": "mavazi",
+    "en": [
+      "dress"
+    ]
+  },
+  {
+    "sw": "wingu",
+    "en": [
+      "cloud"
+    ]
+  },
+  {
+    "sw": "mshangao",
+    "en": [
+      "surprise"
+    ]
+  },
+  {
+    "sw": "utulivu",
+    "en": [
+      "quiet"
+    ]
+  },
+  {
+    "sw": "jiwe",
+    "en": [
+      "stone"
+    ]
+  },
+  {
+    "sw": "vidogo",
+    "en": [
+      "tiny"
+    ]
+  },
+  {
+    "sw": "kupanda",
+    "en": [
+      "climb"
+    ]
+  },
+  {
+    "sw": "baridi",
+    "en": [
+      "cool"
+    ]
+  },
+  {
+    "sw": "kubuni",
+    "en": [
+      "design"
+    ]
+  },
+  {
+    "sw": "maskini",
+    "en": [
+      "poor"
+    ]
+  },
+  {
+    "sw": "mengi",
+    "en": [
+      "lot"
+    ]
+  },
+  {
+    "sw": "majaribio",
+    "en": [
+      "experiment"
+    ]
+  },
+  {
+    "sw": "chini",
+    "en": [
+      "bottom"
+    ]
+  },
+  {
+    "sw": "ufunguo",
+    "en": [
+      "key"
+    ]
+  },
+  {
+    "sw": "chuma",
+    "en": [
+      "iron"
+    ]
+  },
+  {
+    "sw": "moja",
+    "en": [
+      "single"
+    ]
+  },
+  {
+    "sw": "fimbo",
+    "en": [
+      "stick"
+    ]
+  },
+  {
+    "sw": "gorofa",
+    "en": [
+      "flat"
+    ]
+  },
+  {
+    "sw": "ishirini",
+    "en": [
+      "twenty"
+    ]
+  },
+  {
+    "sw": "ngozi",
+    "en": [
+      "skin"
+    ]
+  },
+  {
+    "sw": "tabasamu",
+    "en": [
+      "smile"
+    ]
+  },
+  {
+    "sw": "na crease",
+    "en": [
+      "crease"
+    ]
+  },
+  {
+    "sw": "shimo",
+    "en": [
+      "hole"
+    ]
+  },
+  {
+    "sw": "kuruka",
+    "en": [
+      "jump"
+    ]
+  },
+  {
+    "sw": "mtoto",
+    "en": [
+      "baby"
+    ]
+  },
+  {
+    "sw": "nane",
+    "en": [
+      "eight"
+    ]
+  },
+  {
+    "sw": "kijiji",
+    "en": [
+      "village"
+    ]
+  },
+  {
+    "sw": "kukutana",
+    "en": [
+      "meet"
+    ]
+  },
+  {
+    "sw": "mizizi",
+    "en": [
+      "root"
+    ]
+  },
+  {
+    "sw": "kununua",
+    "en": [
+      "buy"
+    ]
+  },
+  {
+    "sw": "kuongeza",
+    "en": [
+      "raise"
+    ]
+  },
+  {
+    "sw": "kutatua",
+    "en": [
+      "solve"
+    ]
+  },
+  {
+    "sw": "chuma",
+    "en": [
+      "metal"
+    ]
+  },
+  {
+    "sw": "kama",
+    "en": [
+      "whether"
+    ]
+  },
+  {
+    "sw": "kushinikiza",
+    "en": [
+      "push"
+    ]
+  },
+  {
+    "sw": "saba",
+    "en": [
+      "seven"
+    ]
+  },
+  {
+    "sw": "aya",
+    "en": [
+      "paragraph"
+    ]
+  },
+  {
+    "sw": "tatu",
+    "en": [
+      "third"
+    ]
+  },
+  {
+    "sw": "atakuwa",
+    "en": [
+      "shall"
+    ]
+  },
+  {
+    "sw": "uliofanyika",
+    "en": [
+      "held"
+    ]
+  },
+  {
+    "sw": "nywele",
+    "en": [
+      "hair"
+    ]
+  },
+  {
+    "sw": "kuelezea",
+    "en": [
+      "describe"
+    ]
+  },
+  {
+    "sw": "mpishi",
+    "en": [
+      "cook"
+    ]
+  },
+  {
+    "sw": "sakafu",
+    "en": [
+      "floor"
+    ]
+  },
+  {
+    "sw": "ama",
+    "en": [
+      "either"
+    ]
+  },
+  {
+    "sw": "matokeo",
+    "en": [
+      "result"
+    ]
+  },
+  {
+    "sw": "kuchoma",
+    "en": [
+      "burn"
+    ]
+  },
+  {
+    "sw": "kilima",
+    "en": [
+      "hill"
+    ]
+  },
+  {
+    "sw": "salama",
+    "en": [
+      "safe"
+    ]
+  },
+  {
+    "sw": "paka",
+    "en": [
+      "cat"
+    ]
+  },
+  {
+    "sw": "karne ya",
+    "en": [
+      "century"
+    ]
+  },
+  {
+    "sw": "kufikiria",
+    "en": [
+      "consider"
+    ]
+  },
+  {
+    "sw": "aina",
+    "en": [
+      "type"
+    ]
+  },
+  {
+    "sw": "sheria",
+    "en": [
+      "law"
+    ]
+  },
+  {
+    "sw": "kidogo",
+    "en": [
+      "bit"
+    ]
+  },
+  {
+    "sw": "pwani",
+    "en": [
+      "coast"
+    ]
+  },
+  {
+    "sw": "nakala",
+    "en": [
+      "copy"
+    ]
+  },
+  {
+    "sw": "maneno",
+    "en": [
+      "phrase"
+    ]
+  },
+  {
+    "sw": "kimya",
+    "en": [
+      "silent"
+    ]
+  },
+  {
+    "sw": "mrefu",
+    "en": [
+      "tall"
+    ]
+  },
+  {
+    "sw": "mchanga",
+    "en": [
+      "sand"
+    ]
+  },
+  {
+    "sw": "udongo",
+    "en": [
+      "soil"
+    ]
+  },
+  {
+    "sw": "orodha",
+    "en": [
+      "roll"
+    ]
+  },
+  {
+    "sw": "joto",
+    "en": [
+      "temperature"
+    ]
+  },
+  {
+    "sw": "kidole",
+    "en": [
+      "finger"
+    ]
+  },
+  {
+    "sw": "sekta ya",
+    "en": [
+      "industry"
+    ]
+  },
+  {
+    "sw": "thamani",
+    "en": [
+      "value"
+    ]
+  },
+  {
+    "sw": "kupambana",
+    "en": [
+      "fight"
+    ]
+  },
+  {
+    "sw": "uongo",
+    "en": [
+      "lie"
+    ]
+  },
+  {
+    "sw": "kuwapiga",
+    "en": [
+      "beat"
+    ]
+  },
+  {
+    "sw": "kuchochea",
+    "en": [
+      "excite"
+    ]
+  },
+  {
+    "sw": "asili",
+    "en": [
+      "natural"
+    ]
+  },
+  {
+    "sw": "mtazamo",
+    "en": [
+      "view"
+    ]
+  },
+  {
+    "sw": "maana",
+    "en": [
+      "sense"
+    ]
+  },
+  {
+    "sw": "mji mkuu wa",
+    "en": [
+      "capital"
+    ]
+  },
+  {
+    "sw": "si",
+    "en": [
+      "won’t"
+    ]
+  },
+  {
+    "sw": "kiti",
+    "en": [
+      "chair"
+    ]
+  },
+  {
+    "sw": "hatari",
+    "en": [
+      "danger"
+    ]
+  },
+  {
+    "sw": "matunda",
+    "en": [
+      "fruit"
+    ]
+  },
+  {
+    "sw": "tajiri",
+    "en": [
+      "rich"
+    ]
+  },
+  {
+    "sw": "nene",
+    "en": [
+      "thick"
+    ]
+  },
+  {
+    "sw": "askari",
+    "en": [
+      "soldier"
+    ]
+  },
+  {
+    "sw": "mchakato",
+    "en": [
+      "process"
+    ]
+  },
+  {
+    "sw": "kazi",
+    "en": [
+      "operate"
+    ]
+  },
+  {
+    "sw": "mazoezi",
+    "en": [
+      "practice"
+    ]
+  },
+  {
+    "sw": "tofauti",
+    "en": [
+      "separate"
+    ]
+  },
+  {
+    "sw": "vigumu",
+    "en": [
+      "difficult"
+    ]
+  },
+  {
+    "sw": "daktari",
+    "en": [
+      "doctor"
+    ]
+  },
+  {
+    "sw": "tafadhali",
+    "en": [
+      "please"
+    ]
+  },
+  {
+    "sw": "kulinda",
+    "en": [
+      "protect"
+    ]
+  },
+  {
+    "sw": "saa sita mchana",
+    "en": [
+      "noon"
+    ]
+  },
+  {
+    "sw": "mazao",
+    "en": [
+      "crop"
+    ]
+  },
+  {
+    "sw": "kisasa",
+    "en": [
+      "modern"
+    ]
+  },
+  {
+    "sw": "kipengele",
+    "en": [
+      "element"
+    ]
+  },
+  {
+    "sw": "hit",
+    "en": [
+      "hit"
+    ]
+  },
+  {
+    "sw": "mwanafunzi",
+    "en": [
+      "student"
+    ]
+  },
+  {
+    "sw": "kona",
+    "en": [
+      "corner"
+    ]
+  },
+  {
+    "sw": "chama",
+    "en": [
+      "party"
+    ]
+  },
+  {
+    "sw": "usambazaji",
+    "en": [
+      "supply"
+    ]
+  },
+  {
+    "sw": "ambao",
+    "en": [
+      "whose"
+    ]
+  },
+  {
+    "sw": "Machapisho",
+    "en": [
+      "locate"
+    ]
+  },
+  {
+    "sw": "pete",
+    "en": [
+      "ring"
+    ]
+  },
+  {
+    "sw": "tabia ya",
+    "en": [
+      "character"
+    ]
+  },
+  {
+    "sw": "wadudu",
+    "en": [
+      "insect"
+    ]
+  },
+  {
+    "sw": "hawakupata",
+    "en": [
+      "caught"
+    ]
+  },
+  {
+    "sw": "kipindi",
+    "en": [
+      "period"
+    ]
+  },
+  {
+    "sw": "zinaonyesha",
+    "en": [
+      "indicate"
+    ]
+  },
+  {
+    "sw": "za Redio",
+    "en": [
+      "radio"
+    ]
+  },
+  {
+    "sw": "alizungumza",
+    "en": [
+      "spoke"
+    ]
+  },
+  {
+    "sw": "chembe",
+    "en": [
+      "atom"
+    ]
+  },
+  {
+    "sw": "binadamu",
+    "en": [
+      "human"
+    ]
+  },
+  {
+    "sw": "historia",
+    "en": [
+      "history"
+    ]
+  },
+  {
+    "sw": "athari",
+    "en": [
+      "effect"
+    ]
+  },
+  {
+    "sw": "umeme",
+    "en": [
+      "electric"
+    ]
+  },
+  {
+    "sw": "kutarajia",
+    "en": [
+      "expect"
+    ]
+  },
+  {
+    "sw": "mfupa",
+    "en": [
+      "bone"
+    ]
+  },
+  {
+    "sw": "reli",
+    "en": [
+      "rail"
+    ]
+  },
+  {
+    "sw": "kufikiria",
+    "en": [
+      "imagine"
+    ]
+  },
+  {
+    "sw": "kutoa",
+    "en": [
+      "provide"
+    ]
+  },
+  {
+    "sw": "kukubaliana",
+    "en": [
+      "agree"
+    ]
+  },
+  {
+    "sw": "hivyo",
+    "en": [
+      "thus"
+    ]
+  },
+  {
+    "sw": "mpole",
+    "en": [
+      "gentle"
+    ]
+  },
+  {
+    "sw": "mwanamke",
+    "en": [
+      "woman"
+    ]
+  },
+  {
+    "sw": "nahodha",
+    "en": [
+      "captain"
+    ]
+  },
+  {
+    "sw": "nadhani",
+    "en": [
+      "guess"
+    ]
+  },
+  {
+    "sw": "muhimu",
+    "en": [
+      "necessary"
+    ]
+  },
+  {
+    "sw": "mkali",
+    "en": [
+      "sharp"
+    ]
+  },
+  {
+    "sw": "mrengo",
+    "en": [
+      "wing"
+    ]
+  },
+  {
+    "sw": "kujenga",
+    "en": [
+      "create"
+    ]
+  },
+  {
+    "sw": "jirani",
+    "en": [
+      "neighbor"
+    ]
+  },
+  {
+    "sw": "osha",
+    "en": [
+      "wash"
+    ]
+  },
+  {
+    "sw": "bat kwa",
+    "en": [
+      "bat"
+    ]
+  },
+  {
+    "sw": "badala",
+    "en": [
+      "rather"
+    ]
+  },
+  {
+    "sw": "umati wa watu",
+    "en": [
+      "crowd"
+    ]
+  },
+  {
+    "sw": "nafaka",
+    "en": [
+      "corn"
+    ]
+  },
+  {
+    "sw": "kulinganisha",
+    "en": [
+      "compare"
+    ]
+  },
+  {
+    "sw": "shairi",
+    "en": [
+      "poem"
+    ]
+  },
+  {
+    "sw": "kamba",
+    "en": [
+      "string"
+    ]
+  },
+  {
+    "sw": "kengele",
+    "en": [
+      "bell"
+    ]
+  },
+  {
+    "sw": "hutegemea",
+    "en": [
+      "depend"
+    ]
+  },
+  {
+    "sw": "nyama",
+    "en": [
+      "meat"
+    ]
+  },
+  {
+    "sw": "kusugua",
+    "en": [
+      "rub"
+    ]
+  },
+  {
+    "sw": "tube",
+    "en": [
+      "tube"
+    ]
+  },
+  {
+    "sw": "maarufu",
+    "en": [
+      "famous"
+    ]
+  },
+  {
+    "sw": "dola",
+    "en": [
+      "dollar"
+    ]
+  },
+  {
+    "sw": "mkondo",
+    "en": [
+      "stream"
+    ]
+  },
+  {
+    "sw": "hofu",
+    "en": [
+      "fear"
+    ]
+  },
+  {
+    "sw": "mbele",
+    "en": [
+      "sight"
+    ]
+  },
+  {
+    "sw": "nyembamba",
+    "en": [
+      "thin"
+    ]
+  },
+  {
+    "sw": "pembetatu",
+    "en": [
+      "triangle"
+    ]
+  },
+  {
+    "sw": "sayari",
+    "en": [
+      "planet"
+    ]
+  },
+  {
+    "sw": "haraka",
+    "en": [
+      "hurry"
+    ]
+  },
+  {
+    "sw": "wakuu",
+    "en": [
+      "chief"
+    ]
+  },
+  {
+    "sw": "koloni",
+    "en": [
+      "colony"
+    ]
+  },
+  {
+    "sw": "saa",
+    "en": [
+      "clock"
+    ]
+  },
+  {
+    "sw": "yangu",
+    "en": [
+      "mine"
+    ]
+  },
+  {
+    "sw": "tie",
+    "en": [
+      "tie"
+    ]
+  },
+  {
+    "sw": "kuingia",
+    "en": [
+      "enter"
+    ]
+  },
+  {
+    "sw": "kuu",
+    "en": [
+      "major"
+    ]
+  },
+  {
+    "sw": "safi",
+    "en": [
+      "fresh"
+    ]
+  },
+  {
+    "sw": "search",
+    "en": [
+      "search"
+    ]
+  },
+  {
+    "sw": "kutuma",
+    "en": [
+      "send"
+    ]
+  },
+  {
+    "sw": "njano",
+    "en": [
+      "yellow"
+    ]
+  },
+  {
+    "sw": "bunduki",
+    "en": [
+      "gun"
+    ]
+  },
+  {
+    "sw": "kuruhusu",
+    "en": [
+      "allow"
+    ]
+  },
+  {
+    "sw": "magazeti",
+    "en": [
+      "print"
+    ]
+  },
+  {
+    "sw": "wafu",
+    "en": [
+      "dead"
+    ]
+  },
+  {
+    "sw": "doa",
+    "en": [
+      "spot"
+    ]
+  },
+  {
+    "sw": "jangwa",
+    "en": [
+      "desert"
+    ]
+  },
+  {
+    "sw": "suti",
+    "en": [
+      "suit"
+    ]
+  },
+  {
+    "sw": "sasa",
+    "en": [
+      "current"
+    ]
+  },
+  {
+    "sw": "kuinua",
+    "en": [
+      "lift"
+    ]
+  },
+  {
+    "sw": "kufufuka",
+    "en": [
+      "rose"
+    ]
+  },
+  {
+    "sw": "kuwasili",
+    "en": [
+      "arrive"
+    ]
+  },
+  {
+    "sw": "bwana",
+    "en": [
+      "master"
+    ]
+  },
+  {
+    "sw": "kufuatilia",
+    "en": [
+      "track"
+    ]
+  },
+  {
+    "sw": "mzazi",
+    "en": [
+      "parent"
+    ]
+  },
+  {
+    "sw": "pwani",
+    "en": [
+      "shore"
+    ]
+  },
+  {
+    "sw": "mgawanyiko",
+    "en": [
+      "division"
+    ]
+  },
+  {
+    "sw": "karatasi",
+    "en": [
+      "sheet"
+    ]
+  },
+  {
+    "sw": "Dutu",
+    "en": [
+      "substance"
+    ]
+  },
+  {
+    "sw": "neema",
+    "en": [
+      "favor"
+    ]
+  },
+  {
+    "sw": "kuungana",
+    "en": [
+      "connect"
+    ]
+  },
+  {
+    "sw": "baada",
+    "en": [
+      "post"
+    ]
+  },
+  {
+    "sw": "kutumia",
+    "en": [
+      "spend"
+    ]
+  },
+  {
+    "sw": "gumzo",
+    "en": [
+      "chord"
+    ]
+  },
+  {
+    "sw": "mafuta",
+    "en": [
+      "fat"
+    ]
+  },
+  {
+    "sw": "furaha",
+    "en": [
+      "glad"
+    ]
+  },
+  {
+    "sw": "awali",
+    "en": [
+      "original"
+    ]
+  },
+  {
+    "sw": "kushiriki",
+    "en": [
+      "share"
+    ]
+  },
+  {
+    "sw": "kituo cha",
+    "en": [
+      "station"
+    ]
+  },
+  {
+    "sw": "baba",
+    "en": [
+      "dad"
+    ]
+  },
+  {
+    "sw": "mkate",
+    "en": [
+      "bread"
+    ]
+  },
+  {
+    "sw": "malipo",
+    "en": [
+      "charge"
+    ]
+  },
+  {
+    "sw": "sahihi",
+    "en": [
+      "proper"
+    ]
+  },
+  {
+    "sw": "bar ya",
+    "en": [
+      "bar"
+    ]
+  },
+  {
+    "sw": "kutoa",
+    "en": [
+      "offer"
+    ]
+  },
+  {
+    "sw": "sehemu",
+    "en": [
+      "segment"
+    ]
+  },
+  {
+    "sw": "mtumwa",
+    "en": [
+      "slave"
+    ]
+  },
+  {
+    "sw": "bata",
+    "en": [
+      "duck"
+    ]
+  },
+  {
+    "sw": "papo",
+    "en": [
+      "instant"
+    ]
+  },
+  {
+    "sw": "soko",
+    "en": [
+      "market"
+    ]
+  },
+  {
+    "sw": "shahada ya",
+    "en": [
+      "degree"
+    ]
+  },
+  {
+    "sw": "idadi ya",
+    "en": [
+      "populate"
+    ]
+  },
+  {
+    "sw": "kifaranga",
+    "en": [
+      "chick"
+    ]
+  },
+  {
+    "sw": "wapenzi",
+    "en": [
+      "dear"
+    ]
+  },
+  {
+    "sw": "adui",
+    "en": [
+      "enemy"
+    ]
+  },
+  {
+    "sw": "jibu",
+    "en": [
+      "reply"
+    ]
+  },
+  {
+    "sw": "kunywa",
+    "en": [
+      "drink"
+    ]
+  },
+  {
+    "sw": "kutokea",
+    "en": [
+      "occur"
+    ]
+  },
+  {
+    "sw": "msaada",
+    "en": [
+      "support"
+    ]
+  },
+  {
+    "sw": "hotuba",
+    "en": [
+      "speech"
+    ]
+  },
+  {
+    "sw": "asili",
+    "en": [
+      "nature"
+    ]
+  },
+  {
+    "sw": "mbalimbali",
+    "en": [
+      "range"
+    ]
+  },
+  {
+    "sw": "mvuke",
+    "en": [
+      "steam"
+    ]
+  },
+  {
+    "sw": "mwendo",
+    "en": [
+      "motion"
+    ]
+  },
+  {
+    "sw": "njia",
+    "en": [
+      "path"
+    ]
+  },
+  {
+    "sw": "kioevu",
+    "en": [
+      "liquid"
+    ]
+  },
+  {
+    "sw": "kuingia",
+    "en": [
+      "log"
+    ]
+  },
+  {
+    "sw": "maana",
+    "en": [
+      "meant"
+    ]
+  },
+  {
+    "sw": "quotient ya",
+    "en": [
+      "quotient"
+    ]
+  },
+  {
+    "sw": "meno",
+    "en": [
+      "teeth"
+    ]
+  },
+  {
+    "sw": "ganda",
+    "en": [
+      "shell"
+    ]
+  },
+  {
+    "sw": "shingo",
+    "en": [
+      "neck"
+    ]
+  },
+  {
+    "sw": "oksijeni",
+    "en": [
+      "oxygen"
+    ]
+  },
+  {
+    "sw": "sukari",
+    "en": [
+      "sugar"
+    ]
+  },
+  {
+    "sw": "kifo",
+    "en": [
+      "death"
+    ]
+  },
+  {
+    "sw": "wa pretty",
+    "en": [
+      "pretty"
+    ]
+  },
+  {
+    "sw": "ujuzi",
+    "en": [
+      "skill"
+    ]
+  },
+  {
+    "sw": "wanawake",
+    "en": [
+      "women"
+    ]
+  },
+  {
+    "sw": "msimu",
+    "en": [
+      "season"
+    ]
+  },
+  {
+    "sw": "ufumbuzi",
+    "en": [
+      "solution"
+    ]
+  },
+  {
+    "sw": "sumaku",
+    "en": [
+      "magnet"
+    ]
+  },
+  {
+    "sw": "fedha",
+    "en": [
+      "silver"
+    ]
+  },
+  {
+    "sw": "kuwashukuru",
+    "en": [
+      "thank"
+    ]
+  },
+  {
+    "sw": "tawi",
+    "en": [
+      "branch"
+    ]
+  },
+  {
+    "sw": "mechi",
+    "en": [
+      "match"
+    ]
+  },
+  {
+    "sw": "suffix",
+    "en": [
+      "suffix"
+    ]
+  },
+  {
+    "sw": "hasa",
+    "en": [
+      "especially"
+    ]
+  },
+  {
+    "sw": "mtini",
+    "en": [
+      "fig"
+    ]
+  },
+  {
+    "sw": "hofu",
+    "en": [
+      "afraid"
+    ]
+  },
+  {
+    "sw": "kubwa",
+    "en": [
+      "huge"
+    ]
+  },
+  {
+    "sw": "dada",
+    "en": [
+      "sister"
+    ]
+  },
+  {
+    "sw": "chuma",
+    "en": [
+      "steel"
+    ]
+  },
+  {
+    "sw": "kujadili",
+    "en": [
+      "discuss"
+    ]
+  },
+  {
+    "sw": "mbele",
+    "en": [
+      "forward"
+    ]
+  },
+  {
+    "sw": "sawa",
+    "en": [
+      "similar"
+    ]
+  },
+  {
+    "sw": "kuongoza",
+    "en": [
+      "guide"
+    ]
+  },
+  {
+    "sw": "uzoefu",
+    "en": [
+      "experience"
+    ]
+  },
+  {
+    "sw": "alama",
+    "en": [
+      "score"
+    ]
+  },
+  {
+    "sw": "mboni",
+    "en": [
+      "apple"
+    ]
+  },
+  {
+    "sw": "kununuliwa",
+    "en": [
+      "bought"
+    ]
+  },
+  {
+    "sw": "kuongozwa",
+    "en": [
+      "led"
+    ]
+  },
+  {
+    "sw": "lami",
+    "en": [
+      "pitch"
+    ]
+  },
+  {
+    "sw": "kanzu",
+    "en": [
+      "coat"
+    ]
+  },
+  {
+    "sw": "habari",
+    "en": [
+      "mass"
+    ]
+  },
+  {
+    "sw": "kadi",
+    "en": [
+      "card"
+    ]
+  },
+  {
+    "sw": "bendi",
+    "en": [
+      "band"
+    ]
+  },
+  {
+    "sw": "kamba",
+    "en": [
+      "rope"
+    ]
+  },
+  {
+    "sw": "kuingizwa",
+    "en": [
+      "slip"
+    ]
+  },
+  {
+    "sw": "kushinda",
+    "en": [
+      "win"
+    ]
+  },
+  {
+    "sw": "ndoto",
+    "en": [
+      "dream"
+    ]
+  },
+  {
+    "sw": "jioni",
+    "en": [
+      "evening"
+    ]
+  },
+  {
+    "sw": "hali",
+    "en": [
+      "condition"
+    ]
+  },
+  {
+    "sw": "kulisha",
+    "en": [
+      "feed"
+    ]
+  },
+  {
+    "sw": "chombo",
+    "en": [
+      "tool"
+    ]
+  },
+  {
+    "sw": "jumla",
+    "en": [
+      "total"
+    ]
+  },
+  {
+    "sw": "msingi",
+    "en": [
+      "basic"
+    ]
+  },
+  {
+    "sw": "harufu",
+    "en": [
+      "smell"
+    ]
+  },
+  {
+    "sw": "bonde",
+    "en": [
+      "valley"
+    ]
+  },
+  {
+    "sw": "wala",
+    "en": [
+      "nor"
+    ]
+  },
+  {
+    "sw": "mara mbili",
+    "en": [
+      "double"
+    ]
+  },
+  {
+    "sw": "kiti cha",
+    "en": [
+      "seat"
+    ]
+  },
+  {
+    "sw": "kuendelea",
+    "en": [
+      "continue"
+    ]
+  },
+  {
+    "sw": "kuzuia",
+    "en": [
+      "block"
+    ]
+  },
+  {
+    "sw": "chati",
+    "en": [
+      "chart"
+    ]
+  },
+  {
+    "sw": "kofia",
+    "en": [
+      "hat"
+    ]
+  },
+  {
+    "sw": "kuuza",
+    "en": [
+      "sell"
+    ]
+  },
+  {
+    "sw": "mafanikio",
+    "en": [
+      "success"
+    ]
+  },
+  {
+    "sw": "kampuni",
+    "en": [
+      "company"
+    ]
+  },
+  {
+    "sw": "Ondoa",
+    "en": [
+      "subtract"
+    ]
+  },
+  {
+    "sw": "tukio",
+    "en": [
+      "event"
+    ]
+  },
+  {
+    "sw": "hasa",
+    "en": [
+      "particular"
+    ]
+  },
+  {
+    "sw": "mpango",
+    "en": [
+      "deal"
+    ]
+  },
+  {
+    "sw": "kuogelea",
+    "en": [
+      "swim"
+    ]
+  },
+  {
+    "sw": "mrefu",
+    "en": [
+      "term"
+    ]
+  },
+  {
+    "sw": "kinyume",
+    "en": [
+      "opposite"
+    ]
+  },
+  {
+    "sw": "mke",
+    "en": [
+      "wife"
+    ]
+  },
+  {
+    "sw": "kiatu",
+    "en": [
+      "shoe"
+    ]
+  },
+  {
+    "sw": "bega",
+    "en": [
+      "shoulder"
+    ]
+  },
+  {
+    "sw": "kuenea",
+    "en": [
+      "spread"
+    ]
+  },
+  {
+    "sw": "kupanga",
+    "en": [
+      "arrange"
+    ]
+  },
+  {
+    "sw": "kambi",
+    "en": [
+      "camp"
+    ]
+  },
+  {
+    "sw": "mzulia",
+    "en": [
+      "invent"
+    ]
+  },
+  {
+    "sw": "pamba",
+    "en": [
+      "cotton"
+    ]
+  },
+  {
+    "sw": "aliyezaliwa",
+    "en": [
+      "born"
+    ]
+  },
+  {
+    "sw": "kuamua",
+    "en": [
+      "determine"
+    ]
+  },
+  {
+    "sw": "lita moja",
+    "en": [
+      "quart"
+    ]
+  },
+  {
+    "sw": "tisa",
+    "en": [
+      "nine"
+    ]
+  },
+  {
+    "sw": "lori",
+    "en": [
+      "truck"
+    ]
+  },
+  {
+    "sw": "kelele",
+    "en": [
+      "noise"
+    ]
+  },
+  {
+    "sw": "ngazi ya",
+    "en": [
+      "level"
+    ]
+  },
+  {
+    "sw": "nafasi",
+    "en": [
+      "chance"
+    ]
+  },
+  {
+    "sw": "kukusanya",
+    "en": [
+      "gather"
+    ]
+  },
+  {
+    "sw": "duka",
+    "en": [
+      "shop"
+    ]
+  },
+  {
+    "sw": "kunyoosha",
+    "en": [
+      "stretch"
+    ]
+  },
+  {
+    "sw": "kutupa",
+    "en": [
+      "throw"
+    ]
+  },
+  {
+    "sw": "uangaze",
+    "en": [
+      "shine"
+    ]
+  },
+  {
+    "sw": "mali",
+    "en": [
+      "property"
+    ]
+  },
+  {
+    "sw": "safu",
+    "en": [
+      "column"
+    ]
+  },
+  {
+    "sw": "molekuli",
+    "en": [
+      "molecule"
+    ]
+  },
+  {
+    "sw": "kuchagua",
+    "en": [
+      "select"
+    ]
+  },
+  {
+    "sw": "makosa",
+    "en": [
+      "wrong"
+    ]
+  },
+  {
+    "sw": "kijivu",
+    "en": [
+      "gray"
+    ]
+  },
+  {
+    "sw": "kurudia",
+    "en": [
+      "repeat"
+    ]
+  },
+  {
+    "sw": "zinahitaji",
+    "en": [
+      "require"
+    ]
+  },
+  {
+    "sw": "pana",
+    "en": [
+      "broad"
+    ]
+  },
+  {
+    "sw": "kuandaa",
+    "en": [
+      "prepare"
+    ]
+  },
+  {
+    "sw": "chumvi",
+    "en": [
+      "salt"
+    ]
+  },
+  {
+    "sw": "pua",
+    "en": [
+      "nose"
+    ]
+  },
+  {
+    "sw": "wingi",
+    "en": [
+      "plural"
+    ]
+  },
+  {
+    "sw": "hasira",
+    "en": [
+      "anger"
+    ]
+  },
+  {
+    "sw": "madai",
+    "en": [
+      "claim"
+    ]
+  },
+  {
+    "sw": "bara",
+    "en": [
+      "continent"
+    ]
+  }
+]
