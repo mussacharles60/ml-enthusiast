@@ -1,0 +1,15 @@
+http://archive.phonetics.ucla.edu/Language/SWH/swh.html
+http://archive.phonetics.ucla.edu/Language/SWH/swh_conversation_1980_02.html#127
+https://salc.uw.edu.pl/index.php/SALC
+https://somabiblia.files.wordpress.com/2014/03/kamusi-english-swahili.pdf
+https://www.bu.edu/africa/outreach/teachingresources/culture-2/swahili/
+https://french-italian.uiowa.edu/areas/swahili/resources
+https://www.google.com/search?q=swahili+words+audio+list
+https://catalog.ldc.upenn.edu/byyear
+https://github.com/facebookresearch/fairseq
+https://ai.meta.com/blog/wav2vec-20-learning-the-structure-of-speech-from-raw-audio/
+https://huggingface.co/facebook/wav2vec2-base-960h
+https://huggingface.co/datasets/librispeech_asr
+https://www.tensorflow.org/tutorials/audio/simple_audio
+https://github.com/cmusphinx/pocketsphinx
+https://www.tensorflow.org/lite/models/modify/model_maker/speech_recognition
