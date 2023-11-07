@@ -11,4 +11,11 @@
 /nlp/models
 /object_detection/content/mAP/input
 /object_detection/models
+/voice/mcv_swahili/datasets
+/custom_model_lite
+/voice/saved
 .env
+nlp/logs/train/events.out.tfevents.1696113022.MUSSA.4612.0.v2
+nlp/metadata.tsv
+nlp/shakespeare.txt
+nlp/vectors.tsv
