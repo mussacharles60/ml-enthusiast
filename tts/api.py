@@ -4,7 +4,7 @@ from pydub import AudioSegment
 from io import BytesIO
 import base64
 import torch
-import scipy
+# import scipy
 import numpy as np
 import noisereduce as nr
 
@@ -53,8 +53,8 @@ def text_to_speech(text, lang):
     # Reduce noise from the recorded audio
     audio_array = reduce_noise(audio_array, sample_rate=16000)
 
-    # scipy.io.wavfile.write("output.wav", rate=model.config.sampling_rate, data=output.float().numpy())
-    scipy.io.wavfile.write("output.wav", rate=16000, data=audio_array)
+    # # scipy.io.wavfile.write("output.wav", rate=model.config.sampling_rate, data=output.float().numpy())
+    # scipy.io.wavfile.write("output.wav", rate=16000, data=audio_array)
 
     # Convert to numpy array for manipulation in pydub
     # audio_array = speech.detach().numpy().astype("int16")  # Convert to int16 for audio
