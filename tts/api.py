@@ -4,7 +4,7 @@ from pydub import AudioSegment
 from io import BytesIO
 import base64
 import torch
-# import scipy
+import scipy
 import numpy as np
 import noisereduce as nr
 
@@ -14,11 +14,11 @@ app = Flask(__name__)
 model_en = VitsModel.from_pretrained("facebook/mms-tts-eng")
 tokenizer_en = AutoTokenizer.from_pretrained("facebook/mms-tts-eng")
 
-# model = VitsModel.from_pretrained("facebook/mms-tts-swh")
-# tokenizer = AutoTokenizer.from_pretrained("facebook/mms-tts-swh")
+model_sw = VitsModel.from_pretrained("facebook/mms-tts-swh")
+tokenizer_sw = AutoTokenizer.from_pretrained("facebook/mms-tts-swh")
 
-model_sw = AutoModelForTextToWaveform.from_pretrained("khof312/mms-tts-swh-female-2")
-tokenizer_sw = AutoTokenizer.from_pretrained("khof312/mms-tts-swh-female-2")
+# model_sw = AutoModelForTextToWaveform.from_pretrained("khof312/mms-tts-swh-female-2")
+# tokenizer_sw = AutoTokenizer.from_pretrained("khof312/mms-tts-swh-female-2")
 
 # Function to reduce noise from audio
 def reduce_noise(audio_data, sample_rate):
@@ -54,7 +54,7 @@ def text_to_speech(text, lang):
     audio_array = reduce_noise(audio_array, sample_rate=16000)
 
     # # scipy.io.wavfile.write("output.wav", rate=model.config.sampling_rate, data=output.float().numpy())
-    # scipy.io.wavfile.write("output.wav", rate=16000, data=audio_array)
+    scipy.io.wavfile.write("output.wav", rate=16000, data=audio_array)
 
     # Convert to numpy array for manipulation in pydub
     # audio_array = speech.detach().numpy().astype("int16")  # Convert to int16 for audio
@@ -99,6 +99,9 @@ def generate_audio():
 
     # Set the frame rate back to the original value for playback
     pitched_audio = pitched_audio.set_frame_rate(audio.frame_rate)
+
+    # Save the pitch-shifted audio
+    pitched_audio.export("output_pitch_shifted_pydub.wav", format="wav")
 
     # Step 3: Convert the audio to bytes
     buffer = BytesIO()
