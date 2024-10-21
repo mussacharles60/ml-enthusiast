@@ -1,9 +1,9 @@
 {
     "project_name": "mcv_sw_female_vocal",
     "push_to_hub": true,
-    "hub_model_id": "mussacharles60/mcv-swahili-female-finetuned",
+    "hub_model_id": "mussacharles60/mcv-swahili-female-voice",
     "overwrite_output_dir": true,
-    "output_dir": "output/generated-model/mms-tts-sw-finetuned",
+    "output_dir": "output/mms-tts-sw-voice",
     "dataset_name": "mussacharles60/mcv-sw-female",
     "audio_column_name": "audio",
     "text_column_name": "text",
@@ -39,5 +39,7 @@
     "weight_duration": 1,
     "weight_mel": 35,
     "fp16": false,
-    "seed": 456
+    "seed": 456,
+    "no_cuda": true,
+    "use_cpu": true
 }
