@@ -40,3 +40,14 @@ nlp/vectors.tsv
 encoder/saved_models/*
 synthesizer/saved_models/*
 vocoder/saved_models/*
+
+output
+encoder
+synthesizer
+vocoder
+saved_models
+model_checkpoints
+pretrained_models
+checkpoints
+finetune-hf-vits
+wandb
