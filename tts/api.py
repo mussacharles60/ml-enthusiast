@@ -44,7 +44,7 @@ def clean_text(input_text):
     :return: Cleaned text with only allowed characters.
     """
     # Remove special characters except for comma and period
-    cleaned_text = re.sub(r'[^a-zA-Z0-9.,\"\' ]+', '', input_text)
+    cleaned_text = re.sub(r'[^a-zA-Z0-9.,\"\'><+=-_?@#$%!*& ]+', '', input_text)
     return cleaned_text
 
 # Function to reduce noise from audio
