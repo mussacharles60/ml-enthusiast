@@ -69,6 +69,19 @@ def get_dataset(client_id: str):
 
 
 def get_dataset_from_disk(client_id: str):
+
+    # Assume dataset folder structure look like this
+    # cv-corpus-17.0-2024-03-15-sw/
+    # ├── clips/
+    # │   ├── audio1.mp3
+    # │   ├── audio2.mp3
+    # │   └── ...
+    # ├── validated.tsv
+    # ├── invalidated.tsv
+    # ├── test.tsv
+    # ├── train.tsv
+    # └── dev.tsv
+
     # Define the path to the extracted Swahili dataset
     data_dir = "E:/Downloads/cv-corpus-17.0-2024-03-15-sw/cv-corpus-17.0-2024-03-15/sw"
 
@@ -80,7 +93,6 @@ def get_dataset_from_disk(client_id: str):
     train_tsv_path = os.path.join(data_dir, "train.tsv")
 
     # Step 1: Load the TSV metadata file
-
     metadata = pd.read_csv(train_tsv_path, sep='\t')
 
     # Step 2: Filter the dataset for the specific client_id
