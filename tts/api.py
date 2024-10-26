@@ -17,21 +17,17 @@ app = Flask(__name__)
 
 # Load the Hugging Face TTS model and processor (once at startup)
 
-# model_en = VitsModel.from_pretrained("BHOSAI/SARA_TTS")
-# tokenizer_en = AutoTokenizer.from_pretrained("BHOSAI/SARA_TTS")
-
 # model_en = VitsModel.from_pretrained("facebook/mms-tts-eng")
 # tokenizer_en = AutoTokenizer.from_pretrained("facebook/mms-tts-eng")
-
-model_en = VitsModel.from_pretrained("ylacombe/vits_ljs_welsh_female_monospeaker_2")
-tokenizer_en = AutoTokenizer.from_pretrained('ylacombe/vits_ljs_welsh_female_monospeaker_2')
+model_en = VitsModel.from_pretrained("BHOSAI/SARA_TTS")
+tokenizer_en = AutoTokenizer.from_pretrained("BHOSAI/SARA_TTS")
+# model_en = VitsModel.from_pretrained("ylacombe/vits_ljs_welsh_female_monospeaker_2")
+# tokenizer_en = AutoTokenizer.from_pretrained('ylacombe/vits_ljs_welsh_female_monospeaker_2')
 
 # model_sw = VitsModel.from_pretrained("facebook/mms-tts-swh")
 # tokenizer_sw = AutoTokenizer.from_pretrained("facebook/mms-tts-swh")
-
 # model_sw = AutoModelForTextToWaveform.from_pretrained("khof312/mms-tts-swh-female-2")
 # tokenizer_sw = AutoTokenizer.from_pretrained("khof312/mms-tts-swh-female-2")
-
 model_sw = VitsModel.from_pretrained("mussacharles60/swahili-tts-female-voice")
 tokenizer_sw = AutoTokenizer.from_pretrained("mussacharles60/swahili-tts-female-voice")
 
